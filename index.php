@@ -4,88 +4,48 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="">
-        <meta name="author" content="">
-
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
         <!-- Custom styles for this template -->
         <link rel="stylesheet" type="text/css" href="css/modern-business.css">
         <link rel="stylesheet" type="text/css" href="css/main.css">
-
         <title>Moodlink</title>
     </head>
     <body>
-
-        <!-- Navigation -->
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
-            <div class="container">
-                <a class="navbar-brand" href="index.html">
-                    <img src="img/moodlink_square.png" width="30" height="30" class="d-inline-block align-top" alt=""> Moodlink
-                </a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Les troubles de l'humeur</a>
-                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                                <a class="dropdown-item" href="mental_disorder_mood_disorders.html">Les troubles bipolaires</a>
-                                <a class="dropdown-item" href="mental_disorder_ocd.html">Les troubles dépressifs</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nos solutions</a>
-                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                                <a class="dropdown-item" href="solutions_bipolink.html">Bipolink</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contribuer</a>
-                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                                <a class="dropdown-item" href="contribute_participate.html">Participer</a>
-                                <a class="dropdown-item" href="contribute_join.html">Nous rejoindre</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">À propos</a>
-                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                                <a class="dropdown-item" href="about_team.html">Qui sommes-nous ?</a>
-                                <a class="dropdown-item" href="about_partners.html">Partenaires</a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- End Navigation -->
-
+        <!-- Navbar -->
+        <?php include("component_navbar.php"); ?>
+        <!-- End Navbar -->
         <!-- Header Video -->
         <header>
-            <div class="overlay"></div>
-            <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" id="myVideo">
+            <div class="overlay">
+            </div>
+            <video id="myVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4" type="video/mp4">
             </video>
             <div class="container h-100">
                 <div class="d-flex h-100 text-center align-items-center">
                     <div class="w-100 text-white">
-                        <h1 class="display-3">Bipolink</h1>
-                        <p class="lead mb-3">Solution numérique de suivi pour les patients atteints de troubles de l'humeur</p>
-                        <button id="myBtn" class="btn btn-secondary" onclick="myFunction()">Pause</button>
+                        <h1 class="display-3">
+                            Bipolink
+                        </h1>
+                        <p class="lead mb-3">
+                            Solution numérique de suivi pour les patients atteints de troubles de l'humeur
+                        </p>
+                        <button id="myBtn" class="btn btn-secondary" onclick="myFunction()">
+                            Pause
+                        </button>
                     </div>
                 </div>
             </div>
         </header>
-
+        <!-- End Header Video -->
         <!-- Page Content -->
         <div class="container">
-            <br>
-
-            <!-- Description of product -->
+            <!-- Product Description -->
             <div>
-                <h1 class="mt-4 mb-3">Bipolink</h1>
+                <h1 class="mt-4 mb-3">
+                    Bipolink
+                </h1>
                 <p>
                     Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
                     <br>
@@ -94,10 +54,8 @@
                     Avec l'accord du patient, les informations pourront ensuite être partagées avec ses soignants de façon totalement sécurisée: médecin ou psychologue.
                 </p>
             </div>
-            <br>
-            <!-- End Description of product-->
-
-            <!-- Video and link to store -->
+            <!-- End Product Description -->
+            <!-- Call to Action -->
             <div class="row">
                 <div class="col-md-8">
                     <img class="img-fluid" src="img/image_app_mobile.jpg" alt="">
@@ -107,17 +65,20 @@
                     <br>
                     <br>
                     <br>
-                    <h4 class="my-3 text-center">Essayez maintenant Bipolink</h4>
+                    <h4 class="my-3 text-center">
+                        Essayez maintenant Bipolink
+                    </h4>
                     <a href="https://play.google.com/store">
                         <img src="img/google-play-badge.png" class="img-fluid">
                     </a>
                 </div>
             </div>
-            <!-- End Video and link to store -->
-
+            <!-- End Call to Action -->
             <!-- Mood Disorder -->
             <div>
-                <h1 class="mt-4 mb-3">Les troubles de l’humeur</h1>
+                <h1 class="mt-4 mb-3">
+                    Les troubles de l’humeur
+                </h1>
                 <p>
                     Le trouble de l'humeur est un groupe de diagnostics en provenance du système de classification du Manuel diagnostique et statistique des troubles mentaux dans lequel la thymie est principalement induite1. Ce groupe de diagnostics est référencé sous le terme de « trouble affectif de l'humeur » dans la Classification internationale des maladies (CIM-10).
                     <br>
@@ -126,7 +87,6 @@
             </div>
             <br>
             <!-- End Mood Disorder-->
-
             <!-- Cards -->
             <div class="row">
                 <div class="col-lg-3 col-sm-6 portfolio-item">
@@ -185,22 +145,15 @@
                 </div>
             </div>
             <!-- End Cards -->
-
         </div>
         <!-- End Page Content -->
-
         <!-- Footer -->
-        <footer class="py-3 bg-light">
-            <div class="container">
-                <p class="m-0 text-center">Copyright &copy; Moodlink</p>
-            </div>
-        </footer>
-
+        <?php include("component_footer.php"); ?>
+        <!-- End Footer -->
         <!-- Script Video -->
         <script>
             var video = document.getElementById("myVideo");
             var btn = document.getElementById("myBtn");
-
             function myFunction() {
                 if (video.paused) {
                     video.play();
@@ -211,13 +164,11 @@
                 }
             }
         </script>
-        <!-- End Video -->
-        
+        <!-- End Script Video -->
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     </body>
 </html>
