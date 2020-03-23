@@ -1,22 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        <!-- Custom styles for this template -->
-        <link rel="stylesheet" type="text/css" href="css/modern-business.css">
-        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <?php include("component_head.php"); ?>
         <title>Moodlink</title>
     </head>
     <body>
-        <!-- Navbar -->
-        <?php include("component_navbar.php"); ?>
-        <!-- End Navbar -->
-        <!-- Header Video -->
-        <header>
+        <?php include("component_header.php"); ?>
+        <!-- Page Content -->
+        <!-- Video Header -->
+        <div id="videoHeader">
             <div class="overlay">
             </div>
             <video id="myVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
@@ -37,120 +29,195 @@
                     </div>
                 </div>
             </div>
-        </header>
-        <!-- End Header Video -->
-        <!-- Page Content -->
-        <div class="container">
-            <!-- Product Description -->
-            <div>
-                <h1 class="mt-4 mb-3">
+        </div>
+        <!-- // Video Header -->
+        <!-- Bipolink Presentation -->
+        <section class="about py-5">
+            <div class="container py-md-3">
+                <h2 class="heading text-center mb-sm-5 mb-4">
                     Bipolink
-                </h1>
-                <p>
-                    Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
-                    <br>
-                    Elle utilise les fonctionnalités du smarthpone pour récolter des données sur le patient, tout en lui laissant la possibilité de renseigner des informations comme dans un journal de bord numérique.
-                    <br>
-                    Avec l'accord du patient, les informations pourront ensuite être partagées avec ses soignants de façon totalement sécurisée: médecin ou psychologue.
-                </p>
-            </div>
-            <!-- End Product Description -->
-            <!-- Call to Action -->
-            <div class="row">
-                <div class="col-md-8">
-                    <img class="img-fluid" src="img/image_app_mobile.jpg" alt="">
+                </h2>
+                <div class="row">
+                    <div class="col-lg-8">
+                        <h4 class="about-left">
+                            Notre Solution
+                        </h4>
+                        <p class="mt-sm-4 mt-3">
+                            Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
+                            <br>
+                            Elle utilise les fonctionnalités du smarthpone pour récolter des données sur le patient, tout en lui laissant la possibilité de renseigner des informations comme dans un journal de bord numérique.
+                            <br>
+                            Avec l'accord du patient, les informations pourront ensuite être partagées avec ses soignants de façon totalement sécurisée: médecin ou psychologue.
+                        </p>
+                        <div class="row mt-4">
+                            <div class="col-md-3 col-6">
+                                <div class="about-box">
+                                    <span class="icon">
+                                        <span class="fa fa-magic"></span>
+                                    </span>
+                                    <h4>Automatique</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6">
+                                <div class="about-box">
+                                    <span class="icon">
+                                        <span class="fa fa-pen"></span>
+                                    </span>
+                                    <h4>Personalisé</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 mt-md-0 mt-4">
+                                <div class="about-box">
+                                    <span class="icon">
+                                        <span class="fa fa-stethoscope"></span>
+                                    </span>
+                                    <h4>Accompagné</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 mt-md-0 mt-4">
+                                <div class="about-box">
+                                    <span class="icon">
+                                        <span class="fa fa-shield-alt"></span>
+                                    </span>
+                                    <h4>Sécurisé</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-8 dental">
+                        <img src="img/moodlink_square.png" width="350" class="img-fluid" alt="" />
+                    </div>
                 </div>
-                <div class="col-md-4">
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <h4 class="my-3 text-center">
-                        Essayez maintenant Bipolink
-                    </h4>
-                    <a href="https://play.google.com/store">
-                        <img src="img/google-play-badge.png" class="img-fluid">
-                    </a>
+            </div>
+        </section>
+        <!-- // Bipolink Presentation -->
+        <!-- Bipolink Download -->
+        <section class="about-bottom pb-5">
+            <div class="container pb-lg-3">
+                <div class="row bottom-grids">
+                    <div class="col-lg-6">
+                        <img src="img/image_app_mobile.jpg" class="img-fluid" alt="" />
+                    </div>
+                    <div class="col-lg-6 mt-lg-0 mt-5">
+                        <h4>
+                            Essayez maintenant
+                        </h4>
+                        <p class="py-3">
+                            <a href="https://www.apple.com/fr/ios/app-store/">
+                                <img src="img/Download_on_the_App_Store_Badge_FR_blk_100517.png" width="300">
+                            </a>
+                        </p>
+                        <p class="py-3">
+                            <a href="https://play.google.com/store">
+                                <img src="img/google-play-badge.png" width="300">
+                            </a>
+                        </p>
+                    </div>
                 </div>
             </div>
-            <!-- End Call to Action -->
-            <!-- Mood Disorder -->
-            <div>
-                <h1 class="mt-4 mb-3">
+        </section>
+        <!-- // Bipolink Download -->
+        <!-- Mood Disorders Presentation -->
+        <section class="about py-5">
+            <div class="container py-md-3">
+                <h2 class="heading text-center mb-sm-5 mb-4">
                     Les troubles de l’humeur
-                </h1>
-                <p>
-                    Le trouble de l'humeur est un groupe de diagnostics en provenance du système de classification du Manuel diagnostique et statistique des troubles mentaux dans lequel la thymie est principalement induite1. Ce groupe de diagnostics est référencé sous le terme de « trouble affectif de l'humeur » dans la Classification internationale des maladies (CIM-10).
-                    <br>
-                    Deux groupes de troubles de l'humeur sont largement reconnus ; cette division est basée sur le cas éventuel d'un patient ayant connu des épisodes maniaques ou hypomaniaques. Ainsi, il existe un bon nombre de troubles de l'humeur, deux étant plus répandus : la dépression (communément appelée dépression nerveuse ou dépression majeure) et le trouble bipolaire (anciennement connu sous le terme de psychose maniaco-dépressive), caractérisé par des périodes maniaques et hypomaniaques, et souvent doublé d'épisodes dépressifs.
-                </p>
+                </h2>
+                <div class="row">
+                    <div class="col-lg-8">
+                        <p class="mt-sm-4 mt-3">
+                            Le trouble de l'humeur est un groupe de diagnostics en provenance du système de classification du Manuel diagnostique et statistique des troubles mentaux dans lequel la thymie est principalement induite1. Ce groupe de diagnostics est référencé sous le terme de « trouble affectif de l'humeur » dans la Classification internationale des maladies (CIM-10).
+                        </p>
+                        <p class="mt-sm-4 mt-3">
+                            Deux groupes de troubles de l'humeur sont largement reconnus ; cette division est basée sur le cas éventuel d'un patient ayant connu des épisodes maniaques ou hypomaniaques. Ainsi, il existe un bon nombre de troubles de l'humeur, deux étant plus répandus : la dépression (communément appelée dépression nerveuse ou dépression majeure) et le trouble bipolaire (anciennement connu sous le terme de psychose maniaco-dépressive), caractérisé par des périodes maniaques et hypomaniaques, et souvent doublé d'épisodes dépressifs.
+                        </p>
+                    </div>
+                    <div class="col-lg-4 col-md-8 dental">
+                        <img src="img/moodlink_square.png" width="350" class="img-fluid" alt="" />
+                    </div>
+                </div>
             </div>
-            <br>
-            <!-- End Mood Disorder-->
-            <!-- Cards -->
-            <div class="row">
-                <div class="col-lg-3 col-sm-6 portfolio-item">
-                    <div class="card h-100">
-                        <a href="#"><img class="card-img-top" src="img/image_patient.webp" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a href="#">Les patients</a>
+        </section>
+        <!-- // Mood Disorders Presentation -->
+        <!-- Bipolink Benefits -->
+        <section class="services-inner py-5">
+            <div class="container py-md-3">
+                <h2 class="heading text-center mb-sm-5 mb-4">
+                    Bénéfices
+                </h2>
+                <div class="row service-grids">
+                    <div class="row col-lg-6 mb-5 padder-none">
+                        <div class="col-sm-3 ser_icon">
+                            <span class="icon bg1 mx-auto">
+                                <span class="fa fa-user">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9 mt-sm-0 mt-3">
+                            <h4>
+                                Patient
                             </h4>
-                            <p class="card-text">
+                            <p class="">
                                 Pouvoir se monitorer soi-même, mieux connaître sa maladie. Etre alerté en cas de risque de faire un épisode maniaque ou dépressif. Pouvoir renseigner des informations et donc suivre.
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 portfolio-item">
-                    <div class="card h-100">
-                        <a href="#"><img class="card-img-top" src="img/image_aidant.jpg" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a href="#">Les aidants</a>
+                    <div class="row col-lg-6 mb-sm-5 padder-none">
+                        <div class="col-sm-9 text-sm-right">
+                            <h4>
+                                Aidant
                             </h4>
-                            <p class="card-text">
+                            <p class="">
                                 Savoir que son proche se suit, avec l'accord du patient.
                             </p>
                         </div>
+                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
+                            <span class="icon bg2 mx-auto">
+                                <span class="fa fa-hands-helping">
+                                </span>
+                            </span>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 portfolio-item">
-                    <div class="card h-100">
-                        <a href="#"><img class="card-img-top" src="img/image_psychiatre.jpg" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a href="#">Les psychiatres</a>
+                    <div class="row col-lg-6 mb-lg-0 mb-5 mt-sm-0 mt-5 padder-none">
+                        <div class="col-sm-3 mb-sm-0 mb-4 ser_icon">
+                            <span class="icon bg3 mx-auto">
+                                <span class="fa fa-user-md">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9">
+                            <h4>
+                                Psychiatre
                             </h4>
-                            <p class="card-text">
-                                Pouvoir accéder à de nombreuses informations pertinentes dans la pathologie.
-                                Faciliter le suivi des patients.
+                            <p class="">
+                                Pouvoir accéder à de nombreuses informations pertinentes dans la pathologie. Faciliter le suivi des patients.
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 portfolio-item">
-                    <div class="card h-100">
-                        <a href="#"><img class="card-img-top" src="img/image_psychologue.jpg" alt=""></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a href="#">Les psychologues</a>
+                    <div class="row col-lg-6 padder-none">
+                        <div class="col-sm-9 text-sm-right">
+                            <h4>
+                                Psychologue
                             </h4>
-                            <p class="card-text">
-                                Faciliter l'éducation thérapeutique.
-                                Faciliter le suivi des patients.
+                            <p class="">
+                                Faciliter l'éducation thérapeutique. Faciliter le suivi des patients.
                             </p>
+                        </div>
+                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
+                            <span class="icon bg4 mx-auto">
+                                <span class="fa fa-brain">
+                                </span>
+                            </span>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- End Cards -->
-        </div>
-        <!-- End Page Content -->
-        <!-- Footer -->
+        </section>
+        <!-- // Bipolink Benefits -->
+        <!-- // Page Content -->
         <?php include("component_footer.php"); ?>
-        <!-- End Footer -->
-        <!-- Script Video -->
+        <?php include("component_script.php"); ?>
+        <!-- Script Video Header -->
         <script>
             var video = document.getElementById("myVideo");
             var btn = document.getElementById("myBtn");
@@ -164,11 +231,6 @@
                 }
             }
         </script>
-        <!-- End Script Video -->
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <!-- // Script Video Header -->
     </body>
 </html>
