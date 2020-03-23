@@ -6,6 +6,7 @@
     </head>
     <body>
         <?php include("component_header.php"); ?>
+        <?php include("component_banner.php"); ?>
         <!-- Page Content -->
         
         <!-- // Page Content -->

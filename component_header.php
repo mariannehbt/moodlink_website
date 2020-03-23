@@ -89,11 +89,11 @@
                         Contribuer
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="#">
-                            Les troubles bipolaires
+                        <a class="dropdown-item" href="contribute_participate.php">
+                            Participer
                         </a>
-                        <a class="dropdown-item" href="#">
-                            Les troubles dépressifs
+                        <a class="dropdown-item" href="contribute_join.php">
+                            Nous rejoindre
                         </a>
                     </div>
                 </li>
@@ -102,17 +102,17 @@
                         À Propos
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="#">
-                            Les troubles bipolaires
+                        <a class="dropdown-item" href="about_team.php">
+                            Qui sommes-nous ?
                         </a>
-                        <a class="dropdown-item" href="#">
-                            Les troubles dépressifs
+                        <a class="dropdown-item" href="about_faq.php">
+                            FAQ
                         </a>
                     </div>
                 </li>
             </ul>
             <div class="login-icon ml-2">
-                <a class="user" href="#">
+                <a class="user" href="solutions_bipolink.php#bipolinkDownload">
                     Télécharger
                 </a>
             </div>

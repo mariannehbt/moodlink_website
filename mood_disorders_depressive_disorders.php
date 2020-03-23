@@ -10,7 +10,7 @@
         <?php include("component_banner.php"); ?>
         <?php include("component_mood_disorders_definition.php"); ?>
         <!-- Depressive Disorders Definition -->
-        <section class="about mx-3">
+        <section id="moodAnchor" class="about mx-3">
             <div class="container py-md-3">
                 <div class="row">
                     <h4 class="about-left">
