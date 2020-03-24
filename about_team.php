@@ -22,7 +22,7 @@
                     </p>
                 </div>
                 <div class="row team_grids mt-5">
-                    <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
                                 <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
@@ -50,7 +50,7 @@
                             <span>Porteur de projet</span>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
                                 <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
@@ -78,7 +78,7 @@
                             <span>Psychologue clinicienne</span>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
                                 <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
@@ -106,40 +106,13 @@
                             <span>Développeur Web</span>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 mb-5">
-                        <div class="team-member">
-                            <div class="team-img">
-                                <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
-                            </div>
-                            <div class="team-hover">
-                                <div class="desk">
-                                    <h4>Anna</h4>
-                                    <p>Graphiste</p>
-                                </div>
-                                <div class="s-link">
-                                    <a href="#">
-                                        <span class="fab fa-facebook"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-twitter"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-google-plus"></span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-title">
-                            <h5>Anna</h5>
-                            <span>Graphiste</span>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
         <!-- // Team -->
         <!-- // Page Content -->
         <?php include("component_footer.php"); ?>
+        <?php include("component_scroll_to_top_button.php"); ?>
         <?php include("component_script.php"); ?>
     </body>
 </html>

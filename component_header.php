@@ -1,54 +1,10 @@
-<!-- Top Header -->
-<div class="header-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                <ul class="d-lg-flex header-w3_pvt">
-                    <li class="mr-lg-3">
-                        <span class="fa fa-envelope-open">
-                        </span>
-                        <a href="mailto:info@example.com" class="">
-                            info@example.com
-                        </a>
-                    </li>
-                    <li>
-                        <span class="fa fa-phone">
-                        </span>
-                        <p class="d-inline">
-                            Call Us +12 345 678
-                        </p>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-sm-6 header-right-w3_pvt">
-                <ul class="d-lg-flex header-w3_pvt justify-content-lg-end">
-                    <li class="mr-lg-3">
-                        <span class="">
-                            <span class="fa fa-clock-o">
-                            </span>
-                            Mon - Fri : 8:30am to 9:30pm
-                        </span>
-                    </li>
-                    <li class="">
-                        <span class="">
-                            <span class="fa fa-clock-o">
-                            </span>
-                            Sat & Sun : 9:00am to 6:00pm
-                        </span>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- // Top Header -->
 <!-- Nav Header -->
 <header class="py-3">
     <div class="container">
         <div id="logo">
             <h1>
                 <a href="index.php">
-                    <img src="img/moodlink_square.png" width="40" height="40" alt="">
+                    <!-- <img src="img/moodlink_square.png" width="40" height="40" alt=""> -->
                     Moodlink
                 </a>
             </h1>
@@ -76,7 +32,7 @@
                 </li>
                 <li class="dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Nos Solutions
+                        Notre Solution
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
                         <a class="dropdown-item" href="solutions_bipolink.php">
@@ -113,7 +69,7 @@
             </ul>
             <div class="login-icon ml-2">
                 <a class="user" href="solutions_bipolink.php#bipolinkDownload">
-                    Télécharger
+                    Télécharger Bipolink
                 </a>
             </div>
         </nav>

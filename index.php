@@ -7,40 +7,17 @@
     <body>
         <?php include("component_header.php"); ?>
         <!-- Page Content -->
-        <!-- Video Header -->
-        <div id="videoHeader">
-            <div class="overlay">
-            </div>
-            <video id="myVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-                <source src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4" type="video/mp4">
-            </video>
-            <div class="container h-100">
-                <div class="d-flex h-100 text-center align-items-center">
-                    <div class="w-100 text-white">
-                        <h1 class="display-3">
-                            Bipolink
-                        </h1>
-                        <p class="lead mb-3">
-                            Solution numérique de suivi pour les patients atteints de troubles de l'humeur
-                        </p>
-                        <button id="myBtn" class="btn btn-secondary" onclick="myFunction()">
-                            Pause
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- // Video Header -->
+        <?php include("component_header_video.php"); ?>
         <!-- Bipolink Presentation Index-->
         <section class="about py-5">
             <div class="container py-md-3">
                 <h2 class="heading text-center mb-sm-5 mb-4">
-                    Bipolink
+                    Notre Solution
                 </h2>
                 <div class="row">
                     <div class="col-lg-8">
                         <h4 class="about-left">
-                            Notre Solution
+                            Bipolink
                         </h4>
                         <p class="mt-sm-4 mt-3">
                             Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
@@ -49,33 +26,34 @@
                             <br>
                             Avec l'accord du patient, les informations pourront ensuite être partagées avec ses soignants de façon totalement sécurisée: médecin ou psychologue.
                         </p>
+                        <!-- Icons x 4 -->
                         <div class="row mt-4">
-                            <div class="col-md-3 col-6">
-                                <div class="about-box">
+                            <div class="d-flex col-md-3 col-6 align-items-center justify-content-center">
+                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
                                     <span class="icon">
                                         <span class="fa fa-magic"></span>
                                     </span>
                                     <h4>Automatique</h4>
                                 </div>
                             </div>
-                            <div class="col-md-3 col-6">
-                                <div class="about-box">
+                            <div class="d-flex col-md-3 col-6 align-items-center justify-content-center">
+                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
                                     <span class="icon">
                                         <span class="fa fa-pen"></span>
                                     </span>
-                                    <h4>Personalisé</h4>
+                                    <h4>Personnalisé</h4>
                                 </div>
                             </div>
-                            <div class="col-md-3 col-6 mt-md-0 mt-4">
-                                <div class="about-box">
+                            <div class="d-flex col-md-3 col-6 mt-md-0 mt-4 align-items-center justify-content-center">
+                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
                                     <span class="icon">
                                         <span class="fa fa-stethoscope"></span>
                                     </span>
                                     <h4>Accompagné</h4>
                                 </div>
                             </div>
-                            <div class="col-md-3 col-6 mt-md-0 mt-4">
-                                <div class="about-box">
+                            <div class="d-flex col-md-3 col-6 mt-md-0 mt-4 align-items-center justify-content-center">
+                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
                                     <span class="icon">
                                         <span class="fa fa-shield-alt"></span>
                                     </span>
@@ -83,9 +61,11 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- // Icons x 4 -->
                     </div>
-                    <div class="col-lg-4 col-md-8 dental">
-                        <img src="img/moodlink_square.png" width="350" class="img-fluid" alt="" />
+                    <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
+                        <span class="fas fa-mobile-alt" style="font-size: 400px; color: #00bcd5">
+                        </span>
                     </div>
                 </div>
             </div>
@@ -107,14 +87,15 @@
                             Deux groupes de troubles de l'humeur sont largement reconnus ; cette division est basée sur le cas éventuel d'un patient ayant connu des épisodes maniaques ou hypomaniaques. Ainsi, il existe un bon nombre de troubles de l'humeur, deux étant plus répandus : la dépression (communément appelée dépression nerveuse ou dépression majeure) et le trouble bipolaire (anciennement connu sous le terme de psychose maniaco-dépressive), caractérisé par des périodes maniaques et hypomaniaques, et souvent doublé d'épisodes dépressifs.
                         </p>
                     </div>
-                    <div class="col-lg-4 col-md-8 dental">
-                        <img src="img/moodlink_square.png" width="350" class="img-fluid" alt="" />
+                    <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
+                        <span class="fas fa-frown" style="font-size: 350px; color: #00bcd5">
+                        </span>
                     </div>
                 </div>
             </div>
         </section>
         <!-- // Mood Disorders Presentation -->
-        <!-- Bipolink Benefits -->
+        <!-- Bipolink Benefits Index -->
         <section class="services-inner py-5">
             <div class="container py-md-3">
                 <h2 class="heading text-center mb-sm-5 mb-4">
@@ -138,19 +119,19 @@
                         </div>
                     </div>
                     <div class="row col-lg-6 mb-sm-5 padder-none">
-                        <div class="col-sm-9 text-sm-right">
+                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
+                            <span class="icon bg2 mx-auto">
+                                <span class="fa fa-hands-helping">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9 text-sm-left">
                             <h4>
                                 Aidant
                             </h4>
                             <p class="">
                                 Savoir que son proche se suit, avec l'accord du patient.
                             </p>
-                        </div>
-                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
-                            <span class="icon bg2 mx-auto">
-                                <span class="fa fa-hands-helping">
-                                </span>
-                            </span>
                         </div>
                     </div>
                     <div class="row col-lg-6 mb-lg-0 mb-5 mt-sm-0 mt-5 padder-none">
@@ -170,7 +151,13 @@
                         </div>
                     </div>
                     <div class="row col-lg-6 padder-none">
-                        <div class="col-sm-9 text-sm-right">
+                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
+                            <span class="icon bg4 mx-auto">
+                                <span class="fa fa-brain">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9 text-sm-left">
                             <h4>
                                 Psychologue
                             </h4>
@@ -178,34 +165,14 @@
                                 Faciliter l'éducation thérapeutique. Faciliter le suivi des patients.
                             </p>
                         </div>
-                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
-                            <span class="icon bg4 mx-auto">
-                                <span class="fa fa-brain">
-                                </span>
-                            </span>
-                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- // Bipolink Benefits -->
+        <!-- // Bipolink Benefits Index -->
         <!-- // Page Content -->
         <?php include("component_footer.php"); ?>
+        <?php include("component_scroll_to_top_button.php"); ?>
         <?php include("component_script.php"); ?>
-        <!-- Script Video Header -->
-        <script>
-            var video = document.getElementById("myVideo");
-            var btn = document.getElementById("myBtn");
-            function myFunction() {
-                if (video.paused) {
-                    video.play();
-                    btn.innerHTML = "Pause";
-                } else {
-                    video.pause();
-                    btn.innerHTML = "Play";
-                }
-            }
-        </script>
-        <!-- // Script Video Header -->
     </body>
 </html>

@@ -1,10 +1,11 @@
 <!-- Mood Disorders Definition -->
-<section class="about py-5 mx-3">
-    <div class="container py-md-3">
-        <h2 class="heading text-center mb-sm-5 mb-4">
-            Les troubles de l’humeur
-        </h2>
-        <div class="row">
+<section class="about py-5">
+<div class="container py-md-3">
+    <h2 class="heading text-center mb-sm-5 mb-4">
+        Les troubles de l’humeur
+    </h2>
+    <div class="row">
+        <div class="col-lg-12">
             <p class="mt-sm-4 mt-3">
                 Les troubles de l'humeur regroupent un ensemble de diagnostics décrits dans le système de classification du Manuel Diagnostique et Statistique des troubles mentaux (DSM-V) [1] et dans la Classification Internationale des Maladies (CIM-10) [2]. Ils regroupent notemment 
                 <a href="mood_disorders_bipolar_disorders.php#moodAnchor">
@@ -21,5 +22,6 @@
             </p>
         </div>
     </div>
+</div>
 </section>
 <!-- // Mood Disorders Definition -->

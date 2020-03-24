@@ -59,6 +59,7 @@
         <!-- //contact -->
         <!-- // Page Content -->
         <?php include("component_footer.php"); ?>
+        <?php include("component_scroll_to_top_button.php"); ?>
         <?php include("component_script.php"); ?>
     </body>
 </html>
