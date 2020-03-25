@@ -90,7 +90,7 @@
                             <div class="col-lg-6 col-md-12 mt-md-4 mt-4">
                                 <div class="ser1">
                                     <div class="bg-layer">
-                                        <img src="img/image_drugs_2.jpg" class="mb-4">
+                                        <img src="img/image_drugs_2.jpg" class="mb-4" alt="drugs image">
                                         <h4 class="">
                                             Le traitement médicamenteux
                                         </h4>
@@ -103,7 +103,7 @@
                             <div class="col-lg-6 col-md-12 mt-md-4 mt-4">
                                 <div class="ser2">
                                     <div class="bg-layer">
-                                        <img src="img/image_psychologue.jpg" class="mb-4">
+                                        <img src="img/image_psychologue.jpg" class="mb-4" alt="psychologist image">
                                         <h4 class="">
                                             La psychothérapie
                                         </h4>

@@ -209,11 +209,11 @@
                             Une question sur Bipolink, son fonctionnement ou vos données ?
                             <br>
                             Retrouvez notre
-                            <a href="">
+                            <a href="about_faq.php">
                                  FAQ
                             </a>
                              ou 
-                            <a href="">
+                            <a href="contribute_participate.php">
                                 écrivez-nous
                             </a>
                             .

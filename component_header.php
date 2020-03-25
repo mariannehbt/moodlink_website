@@ -4,7 +4,7 @@
         <div id="logo">
             <h1>
                 <a href="index.php">
-                    <!-- <img src="img/moodlink_square.png" width="40" height="40" alt=""> -->
+                    <!-- <img src="img/moodlink_square.png" width="40" height="40" alt="moodlink logo"> -->
                     Moodlink
                 </a>
             </h1>

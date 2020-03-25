@@ -72,7 +72,7 @@
             <div class="container pb-lg-3">
                 <div class="row bottom-grids">
                     <div class=" d-flex col-lg-6 align-items-center justify-content-center">
-                        <img src="img/iphone-x.png" class="img-fluid" alt="" width="300" />
+                        <img src="img/iphone-x.png" class="img-fluid" alt="image" width="300">
                     </div>
                     <div class="col-lg-6 mt-lg-0 mt-5">
                         <h4>
@@ -109,7 +109,7 @@
                     <!-- // Icon -->
                     <!-- Image -->
                     <!-- <div class="col-lg-4 col-md-8 dental">
-                        <img src="img/moodlink_square.png" width="350" class="img-fluid" alt="" />
+                        <img src="img/moodlink_square.png" class="img-fluid" alt="image" width="350">
                     </div> -->
                     <!-- // Image -->
                 </div>
