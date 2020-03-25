@@ -20,15 +20,44 @@
                         <p class="mt-sm-4 mt-3">
                             Le trouble bipolaire est une maladie chronique se déclarant chez  le jeune adulte (apparition des premiers symptômes entre 15 et 25 ans). Il existe différents types de bipolarité, qui répondent à certaines caractéristiques communes. Les troubles bipolaires se manifestent par une alternance d'épisodes maniaques et/ou hypomaniaques, et d'épisodes dépressifs.
                         </p>
-                        <p class="mt-sm-4 mt-3">
-                            L'<b>épisode maniaque</b> est caractérisé par une élévation de l’humeur anormale et persistante. A cela s’ajoute certains des symptômes suivants : hausse de l’estime de soi, réduction du besoin de sommeil, désir constant de parler, fuite des idées, distractibilité, agitation psychomotrice, et activités à risques. Ces symptômes entrainent une altération du fonctionnement social et professionnel.
-                        </p>
-                        <p class="mt-sm-4 mt-3">
-                            L'<b>épisode hypomaniaque</b> est caractérisé par la présence des mêmes symptômes que ceux de l’épisode maniaque, mais sans altération du fonctionnement professionnel ou des activités sociales. La durée de l'épisode est plus brève également. Le changement est toutefois manifeste pour les proches.
-                        </p>
-                        <p class="mt-sm-4 mt-3">
-                            L'<b>épisode dépressif</b> est  caractérisé par une une humeur dépressive (tristesse, irritabilité, sensation de vide), une perte inhabituelle d’intérêt ou de plaisir et une baisse de l’énergie. Ces éléments sont accompagnés par d'autres symptômes cognitifs et comportementaux, comme par exemple des troubles de l'appétit, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue, sentiment de dévalorisation ou de culpabilité, difficultés de concentration, et pensées de mort ou de suicide.
-                        </p>
+                        <div class="row offer-grids mt-sm-4 mt-3">
+                            <div class="col-lg-4 col-md-12 mt-md-4 mt-4">
+                                <div class="ser1">
+                                    <div class="bg-layer">
+                                        <h4 class="">
+                                            Épisode Maniaque
+                                        </h4>
+                                        <p class="mt-3">
+                                            Caractérisé par une élévation de l’humeur anormale et persistante. A cela s’ajoute certains des symptômes suivants : hausse de l’estime de soi, réduction du besoin de sommeil, désir constant de parler, fuite des idées, distractibilité, agitation psychomotrice, et activités à risques. Ces symptômes entrainent une altération du fonctionnement social et professionnel.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-12 mt-md-4 mt-4">
+                                <div class="ser2">
+                                    <div class="bg-layer">
+                                        <h4 class="">
+                                            Épisode Hypomaniaque
+                                        </h4>
+                                        <p class="mt-3">
+                                            Caractérisé par la présence des mêmes symptômes que ceux de l’épisode maniaque, mais sans altération du fonctionnement professionnel ou des activités sociales. La durée de l'épisode est plus brève également. Le changement est toutefois manifeste pour les proches.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-12 mt-md-4 mt-4">
+                                <div class="ser3">
+                                    <div class="bg-layer">
+                                        <h4 class="">
+                                            Épisode Dépressif
+                                        </h4>
+                                        <p class="mt-3">
+                                            Caractérisé par une une humeur dépressive (tristesse, irritabilité, sensation de vide), une perte inhabituelle d’intérêt ou de plaisir et une baisse de l’énergie. Ces éléments sont accompagnés par d'autres symptômes cognitifs et comportementaux, comme par exemple des troubles de l'appétit, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue, sentiment de dévalorisation ou de culpabilité, difficultés de concentration, et pensées de mort ou de suicide.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <p class="mt-sm-4 mt-3">
                             Les meta-analyses [3] estiment la prévalence mondiale des troubles bipolaires (types 1 et 2) à environ 1 % de la population générale. C'est un trouble qui touche autant de femmes que d'hommes.
                             <br>

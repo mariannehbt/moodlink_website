@@ -1,5 +1,5 @@
 <!-- Bipolink Download Index-->
-<section class="about-bottom pb-5">
+<section id="bipolinkDownload" class="about-bottom pb-5">
     <div class="container pb-lg-3">
         <div class="row bottom-grids">
             <div class=" d-flex col-lg-6 align-items-center justify-content-center">

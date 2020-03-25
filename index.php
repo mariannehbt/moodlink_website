@@ -64,7 +64,7 @@
                         <!-- // Icons x 4 -->
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
-                        <span class="fas fa-mobile-alt" style="font-size: 400px; color: #00bcd5">
+                        <span class="fas fa-mobile-alt" style="font-size: 400px; color: #2DAAE1">
                         </span>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                         </p>
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
-                        <span class="fas fa-frown" style="font-size: 350px; color: #00bcd5">
+                        <span class="fas fa-frown" style="font-size: 350px; color: #2DAAE1">
                         </span>
                     </div>
                 </div>
