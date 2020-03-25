@@ -22,7 +22,7 @@
                         <p class="mt-sm-4 mt-3">
                             Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
                             <br>
-                            Elle utilise les fonctionnalités du smarthpone pour récolter des données sur le patient, tout en lui laissant la possibilité de renseigner des informations comme dans un journal de bord numérique.
+                            Elle utilise les fonctionnalités du smartphone pour récolter des données sur le patient, tout en lui laissant la possibilité de renseigner des informations comme dans un journal de bord numérique.
                             <br>
                             Avec l'accord du patient, les informations pourront ensuite être partagées avec ses soignants de façon totalement sécurisée: médecin ou psychologue.
                         </p>
