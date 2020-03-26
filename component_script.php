@@ -16,17 +16,22 @@
 <script src="https://kit.fontawesome.com/a9a0734588.js" crossorigin="anonymous"></script>
 <!-- Header Video -->
 <script>
-    var video = document.getElementById("myVideo");
-    var btn = document.getElementById("myBtn");
-    function myFunction() {
-        if (video.paused) {
-            video.play();
-            btn.innerHTML = "Pause";
-        } else {
-            video.pause();
-            btn.innerHTML = "Play";
-        }
-    }
+	// Get the video
+	var video = document.getElementById("myVideo");
+
+	// Get the button
+	var btn = document.getElementById("myBtn");
+
+	// Pause and play the video, and change the button text
+	function myFunction() {
+	  if (video.paused) {
+	    video.play();
+	    btn.innerHTML = "Pause";
+	  } else {
+	    video.pause();
+	    btn.innerHTML = "Play";
+	  }
+	}
 </script>
 <!-- Scroll To Top Button -->
 <script>
