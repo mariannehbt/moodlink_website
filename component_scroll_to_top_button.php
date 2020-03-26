@@ -1,3 +1,3 @@
 <!-- Scroll To Top Button -->
-<button onclick="topFunction()" id="myTopBtn" title="Go to top">Top</button>
+<button onclick="myTopBtnFunction()" id="myTopBtnFunctionBtn" title="Go to top">Top</button>
 <!-- // Scroll To Top Button -->

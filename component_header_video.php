@@ -1,8 +1,8 @@
 <!-- Header Video -->
-<div id="videoHeader">
+<div id="headerVideo">
     <div class="overlay">
     </div>
-    <video id="myVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <video id="myHeaderVideo" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
         <source src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4" type="video/mp4">
     </video>
     <div class="container h-100">
@@ -14,7 +14,7 @@
                 <p class="lead mb-3">
                     Solution numérique de suivi pour les patients atteints de troubles de l'humeur
                 </p>
-                <button id="myBtn" class="btn btn-secondary" onclick="myFunction()">
+                <button id="myHeaderVideoBtn" class="btn btn-secondary" onclick="myHeaderVideoFunction()">
                     Pause
                 </button>
             </div>

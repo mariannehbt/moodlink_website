@@ -1,5 +1,5 @@
 /*Header Video*/
-#videoHeader {
+#headerVideo {
   position: relative;
   background-color: black;
   height: 75vh;
@@ -8,7 +8,7 @@
   overflow: hidden;
 }
 
-#videoHeader video {
+#headerVideo video {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -23,12 +23,12 @@
   transform: translateX(-50%) translateY(-50%);
 }
 
-#videoHeader .container {
+#headerVideo .container {
   position: relative;
   z-index: 2;
 }
 
-#videoHeader .overlay {
+#headerVideo .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -40,16 +40,16 @@
 }
 
 @media (pointer: coarse) and (hover: none) {
-  #videoHeader {
+  #headerVideo {
     background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
   }
-  #videoHeader video {
+  #headerVideo video {
     display: none;
   }
 }
 
 /*Scroll To Top Button*/
-#myTopBtn {
+#myTopBtnFunctionBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
   bottom: 20px; /* Place the button at the bottom of the page */
@@ -65,6 +65,6 @@
   font-size: 18px; /* Increase font size */
 }
 
-#myTopBtn:hover {
+#myTopBtnFunctionBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
 }

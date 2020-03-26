@@ -17,13 +17,13 @@
 <!-- Header Video -->
 <script>
 	// Get the video
-	var video = document.getElementById("myVideo");
+	var video = document.getElementById("myHeaderVideo");
 
 	// Get the button
-	var btn = document.getElementById("myBtn");
+	var btn = document.getElementById("myHeaderVideoBtn");
 
 	// Pause and play the video, and change the button text
-	function myFunction() {
+	function myHeaderVideoFunction() {
 	  if (video.paused) {
 	    video.play();
 	    btn.innerHTML = "Pause";
@@ -36,7 +36,7 @@
 <!-- Scroll To Top Button -->
 <script>
 	//Get the button:
-	mybutton = document.getElementById("myTopBtn");
+	mybutton = document.getElementById("myTopBtnFunctionBtn");
 
 	// When the user scrolls down 20px from the top of the document, show the button
 	window.onscroll = function() {scrollFunction()};
@@ -50,7 +50,7 @@
 	}
 
 	// When the user clicks on the button, scroll to the top of the document
-	function topFunction() {
+	function myTopBtnFunction() {
 		document.body.scrollTop = 0; // For Safari
 		document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 	}
