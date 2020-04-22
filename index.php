@@ -8,7 +8,7 @@
         <?php include("component_header.php"); ?>
         <!-- Page Content -->
         <?php include("component_header_video.php"); ?>
-        <!-- Bipolink Presentation Index-->
+        <!-- Moodlink Presentation Index-->
         <section class="about py-5">
             <div class="container py-md-3">
                 <h2 class="heading text-center mb-sm-5 mb-4">
@@ -17,10 +17,10 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <h4 class="about-left">
-                            Bipolink
+                            Moodlink
                         </h4>
                         <p class="mt-sm-4 mt-3">
-                            Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
+                            Moodlink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
                             <br>
                             Elle utilise les fonctionnalités du smartphone pour récolter des données sur le patient, tout en lui laissant la possibilité de renseigner des informations comme dans un journal de bord numérique.
                             <br>
@@ -70,7 +70,7 @@
                 </div>
             </div>
         </section>
-        <!-- // Bipolink Presentation Index-->
+        <!-- // Moodlink Presentation Index-->
         <?php include("component_solutions_bipolink_download.php"); ?>
         <!-- Mood Disorders Presentation -->
         <section class="about py-5">
@@ -81,10 +81,10 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p class="mt-sm-4 mt-3">
-                            Le trouble de l'humeur est un groupe de diagnostics en provenance du système de classification du Manuel diagnostique et statistique des troubles mentaux dans lequel la thymie est principalement induite1. Ce groupe de diagnostics est référencé sous le terme de « trouble affectif de l'humeur » dans la Classification internationale des maladies (CIM-10).
+                            Les troubles de l'humeur regroupent un ensemble de diagnostics décrits dans le système de classification du Manuel Diagnostique et Statistique des troubles mentaux (DSM-V) [1] et dans la Classification Internationale des Maladies (CIM-10) [2]. Ils regroupent notamment les troubles bipolaires et les troubles dépressifs.
                         </p>
                         <p class="mt-sm-4 mt-3">
-                            Deux groupes de troubles de l'humeur sont largement reconnus ; cette division est basée sur le cas éventuel d'un patient ayant connu des épisodes maniaques ou hypomaniaques. Ainsi, il existe un bon nombre de troubles de l'humeur, deux étant plus répandus : la dépression (communément appelée dépression nerveuse ou dépression majeure) et le trouble bipolaire (anciennement connu sous le terme de psychose maniaco-dépressive), caractérisé par des périodes maniaques et hypomaniaques, et souvent doublé d'épisodes dépressifs.
+                            Dans les deux cas le patient souffre de fluctuations thymiques par épisodes, qui impactent le fonctionnement normal de l’individu. Dans le cas de la bipolarité, le patient peut traverser des épisodes maniaques, hypomaniaques et/ou dépressifs, entrecoupés de périodes de stabilité (appelées périodes euthymiques). Dans le cas des troubles dépressifs, le patient peut traverser des épisodes dépressifs de différentes durées et intensités, entre les périodes euthymiques.
                         </p>
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
@@ -95,7 +95,7 @@
             </div>
         </section>
         <!-- // Mood Disorders Presentation -->
-        <!-- Bipolink Benefits Index -->
+        <!-- Moodlink Benefits Index -->
         <section class="services-inner py-5">
             <div class="container py-md-3">
                 <h2 class="heading text-center mb-sm-5 mb-4">
@@ -114,7 +114,10 @@
                                 Patient
                             </h4>
                             <p class="">
-                                Pouvoir se monitorer soi-même, mieux connaître sa maladie. Etre alerté en cas de risque de faire un épisode maniaque ou dépressif. Pouvoir renseigner des informations et donc suivre.
+                                Auto-surveillance de ses symptômes<br>
+                                Journal de bord numérique<br>
+                                Meilleur connaissance de sa maladie<br>
+                                Etre alerté en cas de risque de crise<br>
                             </p>
                         </div>
                     </div>
@@ -130,7 +133,7 @@
                                 Aidant
                             </h4>
                             <p class="">
-                                Savoir que son proche se suit, avec l'accord du patient.
+                                Être alerté d'un risque important pour son proche (système mis en place avec l'accord du patient)
                             </p>
                         </div>
                     </div>
@@ -146,7 +149,8 @@
                                 Psychiatre
                             </h4>
                             <p class="">
-                                Pouvoir accéder à de nombreuses informations pertinentes dans la pathologie. Faciliter le suivi des patients.
+                                Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier<br> 
+                                Outil d'aide au diagnostic
                             </p>
                         </div>
                     </div>
@@ -162,14 +166,15 @@
                                 Psychologue
                             </h4>
                             <p class="">
-                                Faciliter l'éducation thérapeutique. Faciliter le suivi des patients.
+                                Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier<br>
+                                Outil dans la psychoéducation
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- // Bipolink Benefits Index -->
+        <!-- // Moodlink Benefits Index -->
         <!-- // Page Content -->
         <?php include("component_footer.php"); ?>
         <?php include("component_scroll_to_top_button.php"); ?>
