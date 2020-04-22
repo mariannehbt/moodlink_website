@@ -25,13 +25,7 @@
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/photo_antoine_bousquet.jpg" alt="Antoine Bousquet" class="img-fluid">
-                            </div>
-                            <div class="team-hover">
-                                <div class="desk">
-                                    <h4>Antoine Bousquet</h4>
-                                    <p>Porteur de projet</p>
-                                </div>
+                                <a href="https://www.linkedin.com/in/antoine-bousquet/" target="_blank"><img src="img/photo_antoine_bousquet.jpg" alt="Antoine Bousquet" class="img-fluid"></a> 
                             </div>
                         </div>
                         <div class="team-title">
@@ -42,14 +36,16 @@
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/photo_cyrielle_labaune.jpg" alt="Cyrielle Labaune" class="img-fluid">
+                                <img src="img/photo_cyrielle_labaune.jpg" alt="Cyrielle Labaune" class="img-fluid"> 
                             </div>
-                            <div class="team-hover">
-                                <div class="desk">
-                                    <h4>Cyrielle Labaune</h4>
-                                    <p>Psychologue clinicienne</p>
+                            <a href="https://www.linkedin.com/in/cyrielle-labaune-31387b15a/" target="_blank">
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Cyrielle Labaune</h4>
+                                        <p>Psychologue clinicienne</p>
+                                    </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
                         <div class="team-title">
                             <h5>Cyrielle Labaune</h5>
@@ -59,13 +55,7 @@
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/photo_marianne_heribert.png" alt="Marianne Héribert" class="img-fluid">
-                            </div>
-                            <div class="team-hover">
-                                <div class="desk">
-                                    <h4>Marianne Héribert</h4>
-                                    <p>Développeur Web</p>
-                                </div>
+                                <a href="https://www.linkedin.com/in/marianneheribert/" target="_blank"><img src="img/photo_marianne_heribert.png" alt="Marianne Héribert" class="img-fluid"></a> 
                             </div>
                         </div>
                         <div class="team-title">
