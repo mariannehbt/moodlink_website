@@ -92,8 +92,7 @@
                         </p>
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
-                        <span class="fas fa-frown" style="font-size: 350px; color: #2DAAE1">
-                        </span>
+                        <img src="img/photo_provisoire_mood.jpg">
                     </div>
                 </div>
             </div>
