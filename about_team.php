@@ -16,9 +16,10 @@
                 </h2>
                 <div class="row">
                     <p class="mt-sm-4 mt-3">
-                        Quelques lignes qui présente la team, ses valeurs ou les raisons de travailler sur ce projet.
-                        <br>
-                        Moodlink est une société SAS de développement de solution numérique dans la santé mentale et blablabla.
+                        Moodlink est une société SAS de développement de solution numérique dans la santé mentale.
+                    </p>
+                    <p>
+                        L’équipe MoodLink regroupe différents profils de professionnels, avec un porteur de projet, une psychologue clinicienne, et une développeuse web. Cette diversité nous permet de conjuguer nos approches différentes et complémentaires, dans un objectif commun, en partageant des valeurs communes. Le thème de la santé est un sujet qui nous tient à coeur, et plus particulièrement celui de la santé psychique, encore trop méconnu du grand public”
                     </p>
                 </div>
                 <div class="row team_grids mt-5">
