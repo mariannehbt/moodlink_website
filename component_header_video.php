@@ -9,9 +9,9 @@
         <div class="d-flex h-100 text-center align-items-center">
             <div class="w-100 text-white">
                 <h1 class="display-3">
-                    Bipolink
+                    Moodlink
                 </h1>
-                <p class="lead mb-3">
+                <p class="lead text-white mb-3">
                     Solution numérique de suivi pour les patients atteints de troubles de l'humeur
                 </p>
                 <button id="myBtn" class="btn btn-secondary" onclick="myFunction()">

@@ -25,23 +25,12 @@
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
+                                <img src="img/photo_antoine_bousquet.jpg" alt="Antoine Bousquet" class="img-fluid">
                             </div>
                             <div class="team-hover">
                                 <div class="desk">
                                     <h4>Antoine Bousquet</h4>
                                     <p>Porteur de projet</p>
-                                </div>
-                                <div class="s-link">
-                                    <a href="#">
-                                        <span class="fab fa-facebook"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-twitter"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-google-plus"></span>
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -53,23 +42,12 @@
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
+                                <img src="img/photo_cyrielle_labaune.jpg" alt="Cyrielle Labaune" class="img-fluid">
                             </div>
                             <div class="team-hover">
                                 <div class="desk">
                                     <h4>Cyrielle Labaune</h4>
                                     <p>Psychologue clinicienne</p>
-                                </div>
-                                <div class="s-link">
-                                    <a href="#">
-                                        <span class="fab fa-facebook"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-twitter"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-google-plus"></span>
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -81,23 +59,12 @@
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/avatar1.jpg" alt="team member" class="img-fluid">
+                                <img src="img/photo_marianne_heribert.png" alt="Marianne Héribert" class="img-fluid">
                             </div>
                             <div class="team-hover">
                                 <div class="desk">
                                     <h4>Marianne Héribert</h4>
                                     <p>Développeur Web</p>
-                                </div>
-                                <div class="s-link">
-                                    <a href="#">
-                                        <span class="fab fa-facebook"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-twitter"></span>
-                                    </a>
-                                    <a href="#">
-                                        <span class="fab fa-google-plus"></span>
-                                    </a>
                                 </div>
                             </div>
                         </div>

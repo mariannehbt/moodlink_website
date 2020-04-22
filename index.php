@@ -86,6 +86,10 @@
                         <p class="mt-sm-4 mt-3">
                             Dans les deux cas le patient souffre de fluctuations thymiques par épisodes, qui impactent le fonctionnement normal de l’individu. Dans le cas de la bipolarité, le patient peut traverser des épisodes maniaques, hypomaniaques et/ou dépressifs, entrecoupés de périodes de stabilité (appelées périodes euthymiques). Dans le cas des troubles dépressifs, le patient peut traverser des épisodes dépressifs de différentes durées et intensités, entre les périodes euthymiques.
                         </p>
+                        <p id="sourcesHome">
+                            [1] American Psychiatric Association. (2015). DSM-5-Manuel diagnostique et statistique des troubles mentaux. Elsevier Masson.<br> 
+                            [2] World Health Organization. (‎1994)‎. CIM-10/ICD-10 : Classification internationale des maladies. Dixième révision. Chapitre V(‎F)‎, Troubles mentaux et troubles du comportement : descriptions cliniques et directives pour le diagnostic / coordination générale de la traduction française: C. B. Pull. Genève : Organisation mondiale de la Santé.
+                        </p>
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
                         <span class="fas fa-frown" style="font-size: 350px; color: #2DAAE1">
@@ -113,12 +117,12 @@
                             <h4>
                                 Patient
                             </h4>
-                            <p class="">
-                                Auto-surveillance de ses symptômes<br>
-                                Journal de bord numérique<br>
-                                Meilleur connaissance de sa maladie<br>
-                                Etre alerté en cas de risque de crise<br>
-                            </p>
+                            <ul>  
+                                <li>Auto-surveillance de ses symptômes</li>
+                                <li>Journal de bord numérique</li>
+                                <li>Meilleur connaissance de sa maladie</li>
+                                <li>Etre alerté en cas de risque de crise</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="row col-lg-6 mb-sm-5 padder-none">
@@ -132,9 +136,9 @@
                             <h4>
                                 Aidant
                             </h4>
-                            <p class="">
-                                Être alerté d'un risque important pour son proche (système mis en place avec l'accord du patient)
-                            </p>
+                            <ul>  
+                                <li>Être alerté d'un risque important pour son proche (système mis en place avec l'accord du patient)</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="row col-lg-6 mb-lg-0 mb-5 mt-sm-0 mt-5 padder-none">
@@ -148,10 +152,10 @@
                             <h4>
                                 Psychiatre
                             </h4>
-                            <p class="">
-                                Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier<br> 
-                                Outil d'aide au diagnostic
-                            </p>
+                            <ul>
+                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Outil d'aide au diagnostic</li>
+                            </ul>
                         </div>
                     </div>
                     <div class="row col-lg-6 padder-none">
@@ -165,9 +169,10 @@
                             <h4>
                                 Psychologue
                             </h4>
-                            <p class="">
-                                Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier<br>
-                                Outil dans la psychoéducation
+                            <ul>
+                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Outil dans la psychoéducation</li>
+                            </ul>
                             </p>
                         </div>
                     </div>

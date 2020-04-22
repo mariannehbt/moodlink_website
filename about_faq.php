@@ -16,9 +16,10 @@
                 </h2>
                 <div class="row">
                     <p class="mt-sm-4 my-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada ipsum eu lacus tristique dapibus.
+                        FAQ disponible prochainement.
                     </p>
-                    <div class="w-100 mb-4" id="accordion" role="tablist" aria-multiselectable="true">
+                    <!-- A remettre quand questions rédigés-->
+<!--                     <div class="w-100 mb-4" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="card">
                             <div class="card-header" role="tab" id="headingOne">
                                 <h5 class="mb-0 p-2">
@@ -61,7 +62,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

@@ -36,7 +36,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
                         <a class="dropdown-item" href="solutions_bipolink.php">
-                            Bipolink
+                            Moodlink
                         </a>
                     </div>
                 </li>
@@ -69,7 +69,7 @@
             </ul>
             <div class="login-icon ml-2">
                 <a class="user" href="solutions_bipolink.php#bipolinkDownload">
-                    Télécharger Bipolink
+                    Télécharger Moodlink
                 </a>
             </div>
         </nav>

@@ -64,9 +64,15 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 ul {
+    list-style-type: disc;
+    color: #777;
+    font-size: 15px;
     margin: 0;
-    padding: 0;
-    list-style-type: none;
+    line-height: 1.9em;
+    color: #777;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
