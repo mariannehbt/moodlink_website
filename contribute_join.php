@@ -18,7 +18,7 @@
                     Vous voulez prendre part à l'aventure ?
                 </h4>
                 <p class="my-sm-4 my-3">
-                    Nous sommes à la recherche de profil technique etc.
+                    Psychologue, psychiatre, ingénieur, quelque soit votre expertise, venez échanger avec nous !
                 </p>
                 <div class="row agileinfo_mail_grids">
                     <div class="col-lg-12 agileinfo_mail_grid_right">

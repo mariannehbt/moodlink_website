@@ -86,6 +86,7 @@
                         <p class="mt-sm-4 mt-3">
                             Dans les deux cas le patient souffre de fluctuations thymiques par épisodes, qui impactent le fonctionnement normal de l’individu. Dans le cas de la bipolarité, le patient peut traverser des épisodes maniaques, hypomaniaques et/ou dépressifs, entrecoupés de périodes de stabilité (appelées périodes euthymiques). Dans le cas des troubles dépressifs, le patient peut traverser des épisodes dépressifs de différentes durées et intensités, entre les périodes euthymiques.
                         </p>
+                        <br><br>
                         <p id="sourcesHome">
                             [1] American Psychiatric Association. (2015). DSM-5-Manuel diagnostique et statistique des troubles mentaux. Elsevier Masson.<br> 
                             [2] World Health Organization. (‎1994)‎. CIM-10/ICD-10 : Classification internationale des maladies. Dixième révision. Chapitre V(‎F)‎, Troubles mentaux et troubles du comportement : descriptions cliniques et directives pour le diagnostic / coordination générale de la traduction française: C. B. Pull. Genève : Organisation mondiale de la Santé.
