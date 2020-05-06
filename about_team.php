@@ -19,25 +19,36 @@
                         Moodlink est une société SAS de développement de solution numérique dans la santé mentale.
                     </p>
                     <p>
-                        L’équipe MoodLink regroupe différents profils de professionnels, avec un porteur de projet, une psychologue clinicienne, et une développeuse web. Cette diversité nous permet de conjuguer nos approches différentes et complémentaires, dans un objectif commun, en partageant des valeurs communes. Le thème de la santé est un sujet qui nous tient à coeur, et plus particulièrement celui de la santé psychique, encore trop méconnu du grand public”
+                        L’équipe MoodLink regroupe différents profils de professionnels, avec un porteur de projet, une psychologue clinicienne, et une développeuse web. Cette diversité nous permet de conjuguer nos approches différentes et complémentaires, dans un objectif commun, en partageant des valeurs communes. Le thème de la santé est un sujet qui nous tient à coeur, et plus particulièrement celui de la santé psychique, encore trop méconnue du grand public.”
                     </p>
                 </div>
                 <div class="row team_grids mt-5">
+                    <!-- Antoine -->
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <a href="https://www.linkedin.com/in/antoine-bousquet/" target="_blank"><img src="img/photo_antoine_bousquet.jpg" alt="Antoine Bousquet" class="img-fluid"></a> 
+                                <img src="img/photo_antoine_bousquet.jpg" alt="Antoine Bousquet" class="img-fluid">
                             </div>
+                            <a href="https://www.linkedin.com/in/antoine-bousquet/" target="_blank">
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Cyrielle Labaune</h4>
+                                        <p>Psychologue clinicienne</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                         <div class="team-title">
                             <h5>Antoine Bousquet</h5>
                             <span>Porteur de projet</span>
                         </div>
                     </div>
+                    <!-- end Antoine -->
+                    <!-- Cyrielle -->
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <img src="img/photo_cyrielle_labaune.jpg" alt="Cyrielle Labaune" class="img-fluid"> 
+                                <img src="img/photo_cyrielle_labaune.jpg" alt="Cyrielle Labaune" class="img-fluid">
                             </div>
                             <a href="https://www.linkedin.com/in/cyrielle-labaune-31387b15a/" target="_blank">
                                 <div class="team-hover">
@@ -53,17 +64,28 @@
                             <span>Psychologue clinicienne</span>
                         </div>
                     </div>
+                    <!-- Cyrielle -->
+                    <!-- end Marianne -->
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
-                                <a href="https://www.linkedin.com/in/marianneheribert/" target="_blank"><img src="img/photo_marianne_heribert.png" alt="Marianne Héribert" class="img-fluid"></a> 
+                                <img src="img/photo_marianne_heribert.png" alt="Marianne Héribert" class="img-fluid">
                             </div>
+                            <a href="https://www.linkedin.com/in/marianneheribert/" target="_blank">
+                                <div class="team-hover">
+                                    <div class="desk">
+                                        <h4>Cyrielle Labaune</h4>
+                                        <p>Psychologue clinicienne</p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
                         <div class="team-title">
                             <h5> Marianne Héribert</h5>
                             <span>Développeur Web</span>
                         </div>
                     </div>
+                    <!-- end Marianne -->
                 </div>
             </div>
         </section>

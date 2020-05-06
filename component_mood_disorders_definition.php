@@ -18,7 +18,7 @@
                 .
             </p>
             <p class="mt-sm-4 mt-3">
-                Dans les deux cas le patient souffre de fluctuations thymiques par épisodes, qui impactent le fonctionnement normal de l’individu. Dans le cas de la bipolarité, le patient peut traverser des épisodes maniaques, hypomaniaques et/ou dépressifs, entrecoupés de périodes de stabilité (appelées périodes euthymiques). Dans le cas des troubles dépressifs, le patient peut traverser des épisodes dépressifs de différentes durées et intensités, entre les périodes euthymiques.
+                Dans les deux cas, le patient souffre de fluctuations thymiques par épisodes, qui impactent le fonctionnement normal de l’individu. Dans le cas de la bipolarité, le patient peut traverser des épisodes maniaques, hypomaniaques et/ou dépressifs, entrecoupés de périodes de stabilité (appelées périodes euthymiques). Dans le cas des troubles dépressifs, le patient peut traverser des épisodes dépressifs de différentes durées et intensités, entre les périodes euthymiques.
             </p>
         </div>
     </div>

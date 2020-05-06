@@ -17,10 +17,10 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <h4 class="about-left">
-                            Bipolink
+                            Moodlink
                         </h4>
                         <p class="mt-sm-4 mt-3">
-                            Bipolink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
+                            Moodlink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
                             <br>
                             L'utilisateur pourra suivre sa pathologie via certains paramètres comme le sommeil, l'humeur et l'activité sociale.
                             <br>
@@ -74,9 +74,88 @@
                 </div>
             </div>
         </section>
-        <!-- // Bipolink Presentation -->
-        <?php include("component_solutions_bipolink_download.php"); ?>
-        <!-- Bipolink Why -->
+        <!-- Moodlink Benefits Index -->
+        <section class="services-inner py-5">
+            <div class="container py-md-3">
+                <h2 class="heading text-center mb-sm-5 mb-4">
+                    Bénéfices
+                </h2>
+                <div class="row service-grids">
+                    <div class="row col-lg-6 mb-5 padder-none">
+                        <div class="col-sm-3 ser_icon">
+                            <span class="icon bg1 mx-auto">
+                                <span class="fa fa-user">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9 mt-sm-0 mt-3">
+                            <h4>
+                                Patient
+                            </h4>
+                            <ul>  
+                                <li>Auto-surveillance de ses symptômes</li>
+                                <li>Journal de bord numérique</li>
+                                <li>Meilleure connaissance de sa maladie</li>
+                                <li>Etre alerté en cas de risque de crise</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row col-lg-6 mb-sm-5 padder-none">
+                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
+                            <span class="icon bg2 mx-auto">
+                                <span class="fa fa-hands-helping">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9 text-sm-left">
+                            <h4>
+                                Aidant
+                            </h4>
+                            <ul>  
+                                <li>Être alerté d'un risque important pour son proche (système mis en place avec l'accord du patient)</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row col-lg-6 mb-lg-0 mb-5 mt-sm-0 mt-5 padder-none">
+                        <div class="col-sm-3 mb-sm-0 mb-4 ser_icon">
+                            <span class="icon bg3 mx-auto">
+                                <span class="fa fa-user-md">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9">
+                            <h4>
+                                Psychiatre
+                            </h4>
+                            <ul>
+                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Outil d'aide au diagnostic</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row col-lg-6 padder-none">
+                        <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
+                            <span class="icon bg4 mx-auto">
+                                <span class="fa fa-brain">
+                                </span>
+                            </span>
+                        </div>
+                        <div class="col-sm-9 text-sm-left">
+                            <h4>
+                                Psychologue
+                            </h4>
+                            <ul>
+                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Outil dans la psychoéducation</li>
+                            </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- // Moodlink Benefits Index -->
+
         <section class="about pb-5">
             <div class="container py-md-3">
                 <div class="row">
@@ -98,97 +177,11 @@
             </div>
         </section>
         <!-- // Bipolink Why -->
-        <!-- Bipolink Benefits -->
-        <section class="services-inner pb-5">
-            <div class="container py-md-3">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h4 class="about-left mb-5">
-                            Bénéfices
-                        </h4>
-                        <div class="row service-grids">
-                            <div class="row col-lg-6 mb-5 padder-none">
-                                <div class="col-sm-3 ser_icon">
-                                    <span class="icon bg1 mx-auto">
-                                        <span class="fa fa-user">
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-sm-9 mt-sm-0 mt-3">
-                                    <h4>
-                                        Patient
-                                    </h4>
-                                    <p class="">
-                                        Auto-surveillance de sa maladie
-                                        <br>
-                                        Journal de bord numérique
-                                        <br>
-                                        Meilleur connaissance de sa maladie
-                                        <br>
-                                        Etre alerté en cas de risque de crise
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="row col-lg-6 mb-sm-5 padder-none">
-                                <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
-                                    <span class="icon bg2 mx-auto">
-                                        <span class="fa fa-hands-helping">
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-sm-9 text-sm-left">
-                                    <h4>
-                                        Aidant
-                                    </h4>
-                                    <p class="">
-                                        Être alertés d'un risque important pour son proche
-                                        <br>
-                                        (système mis en place avec l'accord du patient)
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="row col-lg-6 mb-lg-0 mb-5 mt-sm-0 mt-5 padder-none">
-                                <div class="col-sm-3 mb-sm-0 mb-4 ser_icon">
-                                    <span class="icon bg3 mx-auto">
-                                        <span class="fa fa-user-md">
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-sm-9">
-                                    <h4>
-                                        Psychiatre
-                                    </h4>
-                                    <p class="">
-                                        Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier
-                                        <br>
-                                        Outil d'aide au diagnostic
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="row col-lg-6 padder-none">
-                                <div class="col-sm-3 mt-sm-0 mt-4 ser_icon ser-right">
-                                    <span class="icon bg4 mx-auto">
-                                        <span class="fa fa-brain">
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col-sm-9 text-sm-left">
-                                    <h4>
-                                        Psychologue
-                                    </h4>
-                                    <p class="">
-                                        Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier
-                                        <br>
-                                        Outil dans la psychoéducation
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- // Bipolink Benefits -->
+        
+        <!-- // Bipolink Presentation -->
+        <?php include("component_solutions_bipolink_download.php"); ?>
+        <!-- Bipolink Why -->
+
         <!-- Risk -->
         <section class="about pb-5">
             <div class="container py-md-3">
@@ -198,7 +191,7 @@
                             Important
                         </h4>
                         <p class="mt-sm-4 mt-3">
-                            Bipolink ne remplacera JAMAIS une recommandation de votre médecin ou l'avis d'un professionnel de santé. La solution est un outil de collecte et d'analyse des informations sur votre santé mentale.
+                            Moodlink ne remplacera JAMAIS une recommandation de votre médecin ou l'avis d'un professionnel de santé. La solution est un outil de collecte et d'analyse des informations sur votre santé mentale.
                         </p>
                         <p class="mt-sm-4 mt-3">
                             En cas de doute sur votre santé ou celle de l'un de vos proches, contactez toujours un médecin ou les urgences.
@@ -206,7 +199,7 @@
                             Le numéro ou blablabla.
                         </p>
                         <p class="mt-sm-4 mt-3">
-                            Une question sur Bipolink, son fonctionnement ou vos données ?
+                            Une question sur Moodlink, son fonctionnement ou vos données ?
                             <br>
                             Retrouvez notre
                             <a href="about_faq.php">

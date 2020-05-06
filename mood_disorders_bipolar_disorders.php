@@ -52,7 +52,7 @@
                                             Épisode Dépressif
                                         </h4>
                                         <p class="mt-3">
-                                            Caractérisé par une une humeur dépressive (tristesse, irritabilité, sensation de vide), une perte inhabituelle d’intérêt ou de plaisir et une baisse de l’énergie. Ces éléments sont accompagnés par d'autres symptômes cognitifs et comportementaux, comme par exemple des troubles de l'appétit, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue, sentiment de dévalorisation ou de culpabilité, difficultés de concentration, et pensées de mort ou de suicide.
+                                            Caractérisé par une humeur dépressive (tristesse, irritabilité, sensation de vide), une perte inhabituelle d’intérêt ou de plaisir et une baisse de l’énergie. Ces éléments sont accompagnés par d'autres symptômes cognitifs et comportementaux, comme par exemple des troubles de l'appétit, troubles du sommeil, agitation ou ralentissement psychomoteur, fatigue, sentiment de dévalorisation ou de culpabilité, difficultés de concentration, et pensées de mort ou de suicide.
                                         </p>
                                     </div>
                                 </div>
