@@ -12,7 +12,7 @@
                     Moodlink
                 </h1>
                 <p class="lead text-white mb-3">
-                    Solution numérique de suivi pour les patients atteints de troubles de l'humeur
+                    Application mobile pour monitorer la santé psychique des patients atteints de troubles de l’humeur
                 </p>
                 <button id="myBtn" class="btn btn-secondary" onclick="myFunction()">
                     Pause

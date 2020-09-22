@@ -6,9 +6,6 @@
                 <img src="img/iphone-x.png" class="img-fluid" alt="moodlink app" width="300" />
             </div>
             <div class="col-lg-6 mt-lg-0 mt-5">
-                <h4>
-                    Essayez maintenant
-                </h4>
                 <!-- <p class="py-3">
                     Rendez-vous dans l'Apple Store :
                 </p>
@@ -18,7 +15,7 @@
                     </a>
                 </p> -->
                 <p class="py-3">
-                    Rendez-vous sur Google Play :
+                    Bientôt disponible sur Google Play :
                 </p>
                 <p class="">
                     <a href="https://play.google.com/store">

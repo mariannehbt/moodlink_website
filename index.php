@@ -22,9 +22,11 @@
                         <p class="mt-sm-4 mt-3">
                             Moodlink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
                             <br>
-                            Elle utilise les fonctionnalités du smartphone pour récolter des données sur le patient, tout en lui laissant la possibilité de renseigner des informations comme dans un journal de bord numérique.
+                            En renseignant l'état d’humeur et la prise de médicament, et ce, combiné à une mesure du sommeil, de l'activité sociale et du déplacement physique, l'utilisateur pourra suivre l’évolution des éléments constituants sa santé psychique.
                             <br>
-                            Avec l'accord du patient, les informations pourront ensuite être partagées avec ses soignants de façon totalement sécurisée: médecin ou psychologue.
+                            Ainsi Moodlink accompagnera le patient dans son travail de psychoéducation : pour l'aider à à mieux se connaître et repérer les éléments déclencheurs de ses crises.
+                            <br>
+                            Enfin et avec votre accord, l'utilisateur pourra partager ces informations avec ses soignants :médecin et psychologue, et ce de façon totalement sécurisée.
                         </p>
                         <!-- Icons x 4 -->
                         <div class="row mt-4">
@@ -91,8 +93,7 @@
                             </h4>
                             <ul>  
                                 <li>Auto-surveillance de ses symptômes</li>
-                                <li>Journal de bord numérique</li>
-                                <li>Meilleure connaissance de sa maladie</li>
+                                <li>Repérer les éléments déclencheurs de ses crises</li>
                                 <li>Etre alerté en cas de risque de crise</li>
                             </ul>
                         </div>
@@ -180,7 +181,7 @@
         <!-- // Mood Disorders Presentation -->
 
         <!-- // Moodlink Presentation Index-->
-        <?php include("component_solutions_bipolink_download.php"); ?>
+        <!-- <?php include("component_solutions_bipolink_download.php"); ?> -->
         <!-- Mood Disorders Presentation -->
 
         <!-- // Page Content -->
