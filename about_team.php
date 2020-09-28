@@ -16,10 +16,10 @@
                 </h2>
                 <div class="row">
                     <p class="mt-sm-4 mt-3">
-                        Moodlink est une société SAS de développement de solution numérique dans la santé mentale.
+                        Moodlink développe des solutions numériques dans la santé mentale.
                     </p>
                     <p>
-                        L’équipe MoodLink regroupe différents profils de professionnels, avec un porteur de projet, une psychologue clinicienne, et une développeuse web. Cette diversité nous permet de conjuguer nos approches différentes et complémentaires, dans un objectif commun, en partageant des valeurs communes. Le thème de la santé est un sujet qui nous tient à coeur, et plus particulièrement celui de la santé psychique, encore trop méconnue du grand public.”
+                        L'équipe de MoodLink compte autant des expertises médicales que techniques rassemblés autour d'un projet commun : apporter des solutions innovantes en santé mentale.
                     </p>
                 </div>
                 <div class="row team_grids mt-5">
@@ -32,15 +32,14 @@
                             <a href="https://www.linkedin.com/in/antoine-bousquet/" target="_blank">
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Cyrielle Labaune</h4>
-                                        <p>Psychologue clinicienne</p>
+                                        <p>Diplômé d'une licence en psychologie et d'un Master en gestion.</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="team-title">
                             <h5>Antoine Bousquet</h5>
-                            <span>Porteur de projet</span>
+                            <span>Dirigeant</span>
                         </div>
                     </div>
                     <!-- end Antoine -->
@@ -53,8 +52,7 @@
                             <a href="https://www.linkedin.com/in/cyrielle-labaune-31387b15a/" target="_blank">
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Cyrielle Labaune</h4>
-                                        <p>Psychologue clinicienne</p>
+                                        <p>Diplômée d'un Master en psychologie.</p>
                                     </div>
                                 </div>
                             </a>
@@ -64,8 +62,8 @@
                             <span>Psychologue clinicienne</span>
                         </div>
                     </div>
-                    <!-- Cyrielle -->
-                    <!-- end Marianne -->
+                    <!-- end Cyrielle -->
+                    <!-- Marianne -->
                     <div class="col-lg-4 col-sm-6 mb-5">
                         <div class="team-member">
                             <div class="team-img">
@@ -74,15 +72,14 @@
                             <a href="https://www.linkedin.com/in/marianneheribert/" target="_blank">
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <h4>Cyrielle Labaune</h4>
-                                        <p>Psychologue clinicienne</p>
+                                        <p>Diplômée d'un Master en gestion.</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="team-title">
                             <h5> Marianne Héribert</h5>
-                            <span>Développeur Web</span>
+                            <span>Développeuse Web</span>
                         </div>
                     </div>
                     <!-- end Marianne -->

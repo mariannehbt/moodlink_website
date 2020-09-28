@@ -16,7 +16,7 @@
                 </h2>
                 <div class="row">
                     <div class="col-lg-8">
-                        <h4>Moodlink</h4>
+                        <h4 class="about-left">Moodlink</h4>
                         <br>
                         <p class="mt-sm-4 mt-3">
                             <strong>Moodlink</strong> est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
@@ -92,8 +92,9 @@
                                 Patient
                             </h4>
                             <ul>  
-                                <li>Auto-surveillance de ses symptômes</li>
-                                <li>Repérer les éléments déclencheurs de ses crises</li>
+                                <li>Simplifier la renseignement des observations</li>
+                                <li>Auto-surveillance des symptômes</li>
+                                <li>Repérer les éléments déclencheurs des crises</li>
                                 <li>Etre alerté en cas de risque de crise</li>
                             </ul>
                         </div>
@@ -110,7 +111,7 @@
                                 Aidant
                             </h4>
                             <ul>  
-                                <li>Être alerté d'un risque important pour son proche (système mis en place avec l'accord du patient)</li>
+                                <li>Être alerté d'un risque important pour son proche (système mis en place avec l'accord de l'utilisateur)</li>
                             </ul>
                         </div>
                     </div>
@@ -126,8 +127,8 @@
                                 Psychiatre
                             </h4>
                             <ul>
-                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
-                                <li>Outil d'aide au diagnostic</li>
+                                <li>Faciliter le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Outil d'aide à la décision dans le diagnostic des troubles de l'humeur</li>
                             </ul>
                         </div>
                     </div>
@@ -144,7 +145,7 @@
                             </h4>
                             <ul>
                                 <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
-                                <li>Outil dans la psychoéducation</li>
+                                <li>Outil d'aide dans le travail de psychoéducation</li>
                             </ul>
                             </p>
                         </div>
@@ -159,7 +160,7 @@
                     Les troubles de l’humeur
                 </h2>
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-7">
                         <p class="mt-sm-4 mt-3">
                             Les troubles de l'humeur regroupent un ensemble de diagnostics décrits dans le système de classification du Manuel Diagnostique et Statistique des troubles mentaux (DSM-V) [1] et dans la Classification Internationale des Maladies (CIM-10) [2]. Ils regroupent notamment les troubles bipolaires et les troubles dépressifs.
                         </p>
@@ -172,8 +173,8 @@
                             [2] World Health Organization. (‎1994)‎. CIM-10/ICD-10 : Classification internationale des maladies. Dixième révision. Chapitre V(‎F)‎, Troubles mentaux et troubles du comportement : descriptions cliniques et directives pour le diagnostic / coordination générale de la traduction française: C. B. Pull. Genève : Organisation mondiale de la Santé.
                         </p>
                     </div>
-                    <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
-                        <img src="img/photo_provisoire_mood.jpg">
+                    <div class="d-flex col-lg-5 col-md-8 align-items-center justify-content-center">
+                        <img src="img/mood_disorders.jpg"; style="font-size: 600px">
                     </div>
                 </div>
             </div>
@@ -181,7 +182,7 @@
         <!-- // Mood Disorders Presentation -->
 
         <!-- // Moodlink Presentation Index-->
-        <?php include("component_solutions_bipolink_download.php"); ?>
+        <!--<php include("component_solutions_bipolink_download.php"); >-->
         <!-- Mood Disorders Presentation -->
 
         <!-- // Page Content -->

@@ -177,10 +177,6 @@
             </div>
         </section>
         <!-- // Bipolink Why -->
-        
-        <!-- // Bipolink Presentation -->
-        <?php include("component_solutions_bipolink_download.php"); ?>
-        <!-- Bipolink Why -->
 
         <!-- Risk -->
         <section class="about pb-5">
@@ -191,12 +187,10 @@
                             Important
                         </h4>
                         <p class="mt-sm-4 mt-3">
-                            Moodlink ne remplacera JAMAIS une recommandation de votre médecin ou l'avis d'un professionnel de santé. La solution est un outil de collecte et d'analyse des informations sur votre santé mentale.
+                            Moodlink ne remplacera JAMAIS les recommandations de votre médecin ou l'avis d'un professionnel de santé. La solution est un outil de collecte et d'analyse des informations sur votre santé mentale.
                         </p>
                         <p class="mt-sm-4 mt-3">
-                            En cas de doute sur votre santé ou celle de l'un de vos proches, contactez toujours un médecin ou les urgences.
-                            <br>
-                            Le numéro ou blablabla.
+                            En cas de doute sur votre santé ou celle de l'un de vos proches, contactez toujours un médecin ou les services d'urgence.
                         </p>
                         <p class="mt-sm-4 mt-3">
                             Une question sur Moodlink, son fonctionnement ou vos données ?
@@ -216,6 +210,11 @@
             </div>
         </section>
         <!-- // Risk -->
+
+        <!-- // Bipolink Presentation -->
+        <?php include("component_solutions_bipolink_download.php"); ?>
+        <!-- Bipolink Why -->
+
         <!-- Sources -->
         <section class="about pb-5">
             <div class="container py-md-3">
