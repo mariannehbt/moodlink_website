@@ -19,17 +19,17 @@
                         <h4 class="about-left">
                             Moodlink
                         </h4>
+                        <br>
                         <p class="mt-sm-4 mt-3">
-                            Moodlink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
-                            <br>
-                            L'utilisateur pourra suivre sa pathologie via certains paramètres comme le sommeil, l'humeur et l'activité sociale.
-                            <br>
-                            Il sera également alerté en cas de risque de crise.
-                            <br>
-                            Pour fonctionner, l'application va d'une part collecter des données, et d'autre part, permettre à l'utilisateur de renseigner des informations sur son état de santé ainsi que des évènements de sa journée par exemple. Toutes ces données, totalement sécurisées, n'appartiendront qu'à l'utilisateur, qui en aura le plein contrôle.
-                            <br>
-                            Enfin, si l'utilisateur le souhaite, il pourra partager ces informations avec ses soignants (médecins et psychologues) pour les aider dans leur pratique, et ce, de façon totalement sécurisée.
+                            <strong>Moodlink</strong> est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
+                            <br><br>
+                            L'utilisateur pourra suivre l’évolution des éléments constituants sa santé mentale en renseignant des éléments tels que son humeur et sa prise de médicament, combiné à une mesure automatique du sommeil, de l'activité sociale et du déplacement physique.
+                            <br><br>
+                            Ces informations l'aideront dans son travail de psychoéducation : pour l'aider à mieux se connaître et repérer les éléments déclencheurs de ses crises.
+                            <br><br>
+                            Enfin et toujours avec son accord, l'utilisateur pourra partager de façon totalement sécurisée ces données avec ses soignants : médecins et psychologues.
                         </p>
+                        <br><br>
                         <!-- Icons x 4 -->
                         <div class="row mt-4">
                             <div class="d-flex col-md-3 col-6 align-items-center justify-content-center">
@@ -68,13 +68,12 @@
                         <!-- // Icons x 4 -->
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
-                        <span class="fas fa-mobile-alt" style="font-size: 400px; color: #2DAAE1">
-                        </span>
+                        <img src="img/home_moodlink.jpg"; style="font-size: 400px">
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Moodlink Benefits Index -->
+<!-- Moodlink Benefits Index -->
         <section class="services-inner py-5">
             <div class="container py-md-3">
                 <h2 class="heading text-center mb-sm-5 mb-4">
@@ -93,9 +92,9 @@
                                 Patient
                             </h4>
                             <ul>  
-                                <li>Auto-surveillance de ses symptômes</li>
-                                <li>Journal de bord numérique</li>
-                                <li>Meilleure connaissance de sa maladie</li>
+                                <li>Simplifier la renseignement des observations</li>
+                                <li>Auto-surveillance des symptômes</li>
+                                <li>Repérer les éléments déclencheurs des crises</li>
                                 <li>Etre alerté en cas de risque de crise</li>
                             </ul>
                         </div>
@@ -112,7 +111,7 @@
                                 Aidant
                             </h4>
                             <ul>  
-                                <li>Être alerté d'un risque important pour son proche (système mis en place avec l'accord du patient)</li>
+                                <li>Être alerté d'un risque important pour son proche (système mis en place avec l'accord de l'utilisateur)</li>
                             </ul>
                         </div>
                     </div>
@@ -128,8 +127,8 @@
                                 Psychiatre
                             </h4>
                             <ul>
-                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
-                                <li>Outil d'aide au diagnostic</li>
+                                <li>Faciliter le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Outil d'aide à la décision dans le diagnostic des troubles de l'humeur</li>
                             </ul>
                         </div>
                     </div>
@@ -146,7 +145,7 @@
                             </h4>
                             <ul>
                                 <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
-                                <li>Outil dans la psychoéducation</li>
+                                <li>Outil d'aide dans le travail de psychoéducation</li>
                             </ul>
                             </p>
                         </div>

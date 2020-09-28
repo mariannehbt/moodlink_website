@@ -17,6 +17,15 @@
                 <div class="row">
                     <p class="mt-sm-4 my-3">
                         FAQ disponible prochainement.
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                     </p>
                     <!-- A remettre quand questions rédigés-->
 <!--                     <div class="w-100 mb-4" id="accordion" role="tablist" aria-multiselectable="true">
