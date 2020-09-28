@@ -18,7 +18,7 @@
                     Vous voulez prendre part à l'aventure ?
                 </h4>
                 <p class="my-sm-4 my-3">
-                    Psychologue, psychiatre, ingénieur, quelque soit votre expertise, venez échanger avec nous !
+                    Professionnel de santé, patient, ingénieur, quelque soit votre domaine de compétence venez échanger avec nous !
                 </p>
                 <div class="row agileinfo_mail_grids">
                     <div class="col-lg-12 agileinfo_mail_grid_right">
@@ -26,35 +26,11 @@
                         <div id="mc_embed_signup">
                             <form action="https://gmail.us2.list-manage.com/subscribe/post?u=204b911fb2a3858d052a8651d&amp;id=f80cf58748" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                 <div id="mc_embed_signup_scroll">
-                                    <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-                                    <div class="row">
                                         <div class="col-md-6 wthree_contact_left_grid pr-md-0">
-                                            <div class="form-group">
-                                                <label for="mce-FNAME">Prénom  <span class="asterisk">*</span></label>
-                                                <input type="text" value="" name="FNAME" class="form-control required" placeholder="Prénom" id="mce-FNAME">
-                                            </div>
                                             <div class="form-group">
                                                 <label for="mce-EMAIL">Email  <span class="asterisk">*</span></label>
                                                 <input type="email" value="" name="EMAIL" class="form-control required email" placeholder="Email" id="mce-EMAIL">
                                             </div>
-                                        </div>
-                                        <div class="col-md-6 wthree_contact_left_grid">
-                                            <div class="form-group">
-                                                <label for="mce-LNAME">Nom  <span class="asterisk">*</span></label>
-                                                <input type="text" value="" name="LNAME" class="form-control required" placeholder="Nom" id="mce-LNAME">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="mce-PHONE">Téléphone  <span class="asterisk">*</span></label>
-                                                <input type="text" value="" name="PHONE" class="form-control required" placeholder="Téléphone" id="mce-PHONE">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="form-group">
-                                                <label for="mce-SUBJECT">Sujet  <span class="asterisk">*</span></label>
-                                                <input type="text" value="" name="SUBJECT" class="form-control required" placeholder="Sujet" id="mce-SUBJECT">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
                                             <div class="form-group">
                                                 <label for="mce-MESSAGE">Message  <span class="asterisk">*</span></label>
                                                 <textarea value="" name="MESSAGE" placeholder="Message" class="form-control required" id="mce-MESSAGE"></textarea>

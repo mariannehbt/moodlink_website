@@ -19,7 +19,7 @@
                         Moodlink développe des solutions numériques dans la santé mentale.
                     </p>
                     <p>
-                        L'équipe de MoodLink compte autant des expertises médicales que techniques rassemblés autour d'un projet commun : apporter des solutions innovantes en santé mentale.
+                        Chez Moodlink, nous pouvons compter sur des expertises médicales et techniques tous rassemblés autour d'un projet commun : apporter des solutions innovantes dans la santé mentale.
                     </p>
                 </div>
                 <div class="row team_grids mt-5">
@@ -32,7 +32,7 @@
                             <a href="https://www.linkedin.com/in/antoine-bousquet/" target="_blank">
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <p>Diplômé d'une licence en psychologie et d'un Master en gestion.</p>
+                                        <p>Diplômé d'une Licence en psychologie et d'un Master en gestion.</p>
                                     </div>
                                 </div>
                             </a>
