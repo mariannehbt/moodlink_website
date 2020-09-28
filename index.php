@@ -16,18 +16,18 @@
                 </h2>
                 <div class="row">
                     <div class="col-lg-8">
-                        <h4 class="about-left">
-                            Moodlink
-                        </h4>
+                        <h4>Moodlink</h4>
+                        <br>
                         <p class="mt-sm-4 mt-3">
-                            Moodlink est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
-                            <br>
-                            En renseignant l'état d’humeur et la prise de médicament, et ce, combiné à une mesure du sommeil, de l'activité sociale et du déplacement physique, l'utilisateur pourra suivre l’évolution des éléments constituants sa santé psychique.
-                            <br>
-                            Ainsi Moodlink accompagnera le patient dans son travail de psychoéducation : pour l'aider à à mieux se connaître et repérer les éléments déclencheurs de ses crises.
-                            <br>
-                            Enfin et avec votre accord, l'utilisateur pourra partager ces informations avec ses soignants :médecin et psychologue, et ce de façon totalement sécurisée.
+                            <strong>Moodlink</strong> est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
+                            <br><br>
+                            L'utilisateur pourra suivre l’évolution des éléments constituants sa santé mentale en renseignant des éléments tels que son humeur et sa prise de médicament, combiné à une mesure automatique du sommeil, de l'activité sociale et du déplacement physique.
+                            <br><br>
+                            Ces informations l'aideront dans son travail de psychoéducation : pour l'aider à mieux se connaître et repérer les éléments déclencheurs de ses crises.
+                            <br><br>
+                            Enfin et toujours avec son accord, l'utilisateur pourra partager de façon totalement sécurisée ces données avec ses soignants : médecins et psychologues.
                         </p>
+                        <br><br>
                         <!-- Icons x 4 -->
                         <div class="row mt-4">
                             <div class="d-flex col-md-3 col-6 align-items-center justify-content-center">
@@ -66,8 +66,8 @@
                         <!-- // Icons x 4 -->
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
-                        <span class="fas fa-mobile-alt" style="font-size: 400px; color: #2DAAE1">
-                        </span>
+                        <img src="img/home_moodlink.jpg"; style="font-size: 400px">
+
                     </div>
                 </div>
             </div>
