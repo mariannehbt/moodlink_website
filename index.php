@@ -181,7 +181,7 @@
         <!-- // Mood Disorders Presentation -->
 
         <!-- // Moodlink Presentation Index-->
-        <!-- <?php include("component_solutions_bipolink_download.php"); ?> -->
+        <?php include("component_solutions_bipolink_download.php"); ?>
         <!-- Mood Disorders Presentation -->
 
         <!-- // Page Content -->
