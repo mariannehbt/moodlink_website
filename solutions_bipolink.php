@@ -23,49 +23,12 @@
                         <p class="mt-sm-4 mt-3">
                             <strong>Moodlink</strong> est une solution numérique de suivi pour les patients atteints de troubles de l'humeur.
                             <br><br>
-                            L'utilisateur pourra suivre l’évolution des éléments constituants sa santé mentale en renseignant des éléments tels que son humeur et sa prise de médicament, combiné à une mesure automatique du sommeil, de l'activité sociale et du déplacement physique.
+                            L'utilisateur pourra suivre l’évolution des éléments constituant sa santé mentale en renseignant des éléments tels que son humeur et sa prise de médicament, combiné à une mesure automatique du sommeil, de l'activité sociale et du déplacement physique.
                             <br><br>
                             Ces informations l'aideront dans son travail de psychoéducation : pour l'aider à mieux se connaître et repérer les éléments déclencheurs de ses crises.
                             <br><br>
                             Enfin et toujours avec son accord, l'utilisateur pourra partager de façon totalement sécurisée ces données avec ses soignants : médecins et psychologues.
                         </p>
-                        <br><br>
-                        <!-- Icons x 4 -->
-                        <div class="row mt-4">
-                            <div class="d-flex col-md-3 col-6 align-items-center justify-content-center">
-                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
-                                    <span class="icon">
-                                        <span class="fa fa-magic"></span>
-                                    </span>
-                                    <h4>Automatique</h4>
-                                </div>
-                            </div>
-                            <div class="d-flex col-md-3 col-6 align-items-center justify-content-center">
-                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
-                                    <span class="icon">
-                                        <span class="fa fa-pen"></span>
-                                    </span>
-                                    <h4>Personnalisé</h4>
-                                </div>
-                            </div>
-                            <div class="d-flex col-md-3 col-6 mt-md-0 mt-4 align-items-center justify-content-center">
-                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
-                                    <span class="icon">
-                                        <span class="fa fa-stethoscope"></span>
-                                    </span>
-                                    <h4>Accompagné</h4>
-                                </div>
-                            </div>
-                            <div class="d-flex col-md-3 col-6 mt-md-0 mt-4 align-items-center justify-content-center">
-                                <div class="d-flex about-box flex-column align-items-center justify-content-center">
-                                    <span class="icon">
-                                        <span class="fa fa-shield-alt"></span>
-                                    </span>
-                                    <h4>Sécurisé</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- // Icons x 4 -->
                     </div>
                     <div class="d-flex col-lg-4 col-md-8 align-items-center justify-content-center">
                         <img src="img/home_moodlink.jpg"; style="font-size: 400px">
@@ -73,6 +36,7 @@
                 </div>
             </div>
         </section>
+        
 <!-- Moodlink Benefits Index -->
         <section class="services-inner py-5">
             <div class="container py-md-3">
@@ -92,8 +56,8 @@
                                 Patient
                             </h4>
                             <ul>  
-                                <li>Simplifier la renseignement des observations</li>
-                                <li>Auto-surveillance des symptômes</li>
+                                <li>Simplifier le renseignement des observations</li>
+                                <li>Faciliter l'auto-surveillance des symptômes</li>
                                 <li>Repérer les éléments déclencheurs des crises</li>
                                 <li>Etre alerté en cas de risque de crise</li>
                             </ul>
@@ -144,7 +108,7 @@
                                 Psychologue
                             </h4>
                             <ul>
-                                <li>Facilite le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
+                                <li>Faciliter le suivi des patients grâce au partage des données patient, avec autorisation de ce dernier</li>
                                 <li>Outil d'aide dans le travail de psychoéducation</li>
                             </ul>
                             </p>
@@ -163,13 +127,13 @@
                             Pourquoi utiliser cette solution ?
                         </h4>
                         <p class="mt-sm-4 mt-3">
-                            Il faut de nombreuses années, en moyenne 10 ans aujourd'hui, entre l'apparition des premiers symptômes et le moment où le patient devient considéré par le corps médical et lui-même comme "stabilisé" [1].
+                            Encore aujourd'hui, il faut compter en moyenne 10 ans à partir de l'apparition des premiers symptômes pour qu'un patient soit considéré comme "stabilisé" [1].
                         </p>
                         <p class="mt-sm-4 mt-3">
-                            Nous pensons que fournir de l'information aux patients comme aux professionnels de santé,  permettra à ces derniers, psychiatres et psychologues, de mieux adapter leur stratégie thérapeutique et ainsi réduire ce délai entre l'apparition des premiers symptômes et la stabilisation.
+                            Nous objectif est de réduire ce délai en fournissant de l'information aux patients comme aux professionnels de santé, psychiatres et psychologues, pour les aider à adapter leur stratégie thérapeutique.
                         </p>
                         <p class="mt-sm-4 mt-3">
-                            Les messages d'alerte envoyés aux patients ainsi qu'aux aidants (sous réserve d'acceptation par les patients), pourraient permettre de prévenir des crises et des passages à l'acte, grâce à une prise de conscience ou une intervention plus rapide de l'entourage.
+                            Les messages d'alerte envoyés aux patients ainsi qu'aux aidants (sous réserve d'acceptation par les patients), pourraient augmenter les chances de prévenir des crises et des passages à l'acte.
                         </p>
                     </div>
                 </div>
@@ -186,7 +150,7 @@
                             Important
                         </h4>
                         <p class="mt-sm-4 mt-3">
-                            Moodlink ne remplacera JAMAIS les recommandations de votre médecin ou l'avis d'un professionnel de santé. La solution est un outil de collecte et d'analyse des informations sur votre santé mentale.
+                            Moodlink ne remplacera JAMAIS les recommandations de votre médecin ou l'avis d'un professionnel de santé. Moodlink est un outil de collecte et d'analyse des informations sur votre santé mentale.
                         </p>
                         <p class="mt-sm-4 mt-3">
                             En cas de doute sur votre santé ou celle de l'un de vos proches, contactez toujours un médecin ou les services d'urgence.
@@ -219,15 +183,9 @@
             <div class="container py-md-3">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h5 class="about-left">
-                            Sources
-                        </h5>
-                        <p class="mt-sm-1 mt-1">
-                            <ul style="font-size: 15px;">
-                                <li>
-                                    [1] Berk, M., Berk, L., Moss, K., Dodd, S., & Malhi, G. S. (2006). Diagnosing bipolar disorder: how can we do it better?. Medical journal of Australia, 184(9), 459-462.
-                                </li>
-                            </ul>
+                        <h5 class="about-left">Sources</h5>
+                        <p id="sourcesHome">
+                            [1] Berk, M., Berk, L., Moss, K., Dodd, S., & Malhi, G. S. (2006). Diagnosing bipolar disorder: how can we do it better?. Medical journal of Australia, 184(9), 459-462.
                         </p>
                     </div>
                 </div>

@@ -10,10 +10,7 @@
                     Ce site ne se substitue pas à la prise en charge globale du patient.
                 </p>
                 <p class="mt-sm-4 mt-3">
-                    Ces informations ainsi que les aides proposées sont vouées à être un appui au parcours de soins.
-                </p>
-                <p class="mt-sm-4 mt-3">
-                    Toujours <b>demander l'avis des professionnels</b> de santé (médecin, psychiatre, psychologue).
+                    Toujours <b>demander l'avis des professionnels</b> de santé (médecin traitant, psychiatre, psychologue).
                 </p>
             </div>
         </div>

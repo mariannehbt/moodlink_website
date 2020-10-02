@@ -144,13 +144,6 @@
                             </a>
                             .
                         </p>
-                        <p class="mt-sm-4 mt-3">
-                            Le site de la 
-                            <a href="https://www.fondation-fondamental.org/les-maladies-mentales/les-troubles-bipolaires">
-                                Fondation Fondamental
-                            </a>
-                            . 
-                        </p>
                     </div>
                 </div>
             </div>
@@ -164,8 +157,7 @@
                         <h5 class="about-left">
                             Sources
                         </h5>
-                        <p class="mt-sm-1 mt-1">
-                            <ul style="font-size: 15px;">
+                            <ul class="sourcesHome">
                                 <li>
                                     [1] American Psychiatric Association. (2015). DSM-5-Manuel diagnostique et statistique des troubles mentaux. Elsevier Masson.
                                 </li>
@@ -191,7 +183,6 @@
                                     [8] Chiang, K. J., Tsai, J. C., Liu, D., Lin, C. H., Chiu, H. L., & Chou, K. R. (2017). Efficacy of cognitive-behavioral therapy in patients with bipolar disorder: A meta-analysis of randomized controlled trials. PloS one, 12(5).
                                 </li>
                             </ul>
-                        </p>
                     </div>
                 </div>
             </div>

@@ -59,7 +59,7 @@
                                             Le traitement médicamenteux
                                         </h4>
                                         <p class="mt-3">
-                                            L’objectif d’un traitement pharmacologique est la diminution des symptômes anxieux, de l'amélioration de l'humeur. Le traitement recommandé [4 ; 6] pour les épisodes d'instités modérées à sévères est le traitement par antidépresseurs (ISRS et IRSN en première intention, tricycliques en deuxième intention, tianeptine et l’agomélatin en troisième intention, et IMAO en dernier recours). Si les antidépresseurs sont insuffisants, ils peuvent être doublés avec des benzodiazépines sur une courte période.
+                                            L’objectif d’un traitement pharmacologique est la diminution des symptômes anxieux, de l'amélioration de l'humeur. Le traitement recommandé [4 ; 6] pour les épisodes d'intensités modérées à sévères est le traitement par antidépresseurs (ISRS et IRSN en première intention, tricycliques en deuxième intention, tianeptine et l’agomélatin en troisième intention, et IMAO en dernier recours). Si les antidépresseurs sont insuffisants, ils peuvent être doublés avec des benzodiazépines sur une courte période.
                                         </p>
                                     </div>
                                 </div>
@@ -106,14 +106,6 @@
                             <a href="#">
                                 troubles depressifs
                             </a>
-                            (à venir).
-                        </p>
-                        <p class="mt-sm-4 mt-3">
-                            Le site de la 
-                            <a href="https://www.fondation-fondamental.org/les-maladies-mentales/les-troubles-bipolaires">
-                                Fondation Fondamental
-                            </a>
-                            . 
                         </p>
                     </div>
                 </div>
@@ -128,28 +120,26 @@
                         <h5 class="about-left">
                             Sources
                         </h5>
-                        <p class="mt-sm-1 mt-1">
-                            <ul style="font-size: 15px;">
-                                <li>
-                                    [1] American Psychiatric Association. (2015). DSM-5-Manuel diagnostique et statistique des troubles mentaux. Elsevier Masson.
-                                </li>
-                                <li>
-                                    [2] World Health Organization. (‎1994)‎. CIM-10/ICD-10 : Classification internationale des maladies. Dixième révision. Chapitre V(‎F)‎, Troubles mentaux et troubles du comportement : descriptions cliniques et directives pour le diagnostic / coordination générale de la traduction française: C. B. Pull. Genève : Organisation mondiale de la Santé.
-                                </li>
-                                <li>
-                                    [3] Léon C, Chan-Chee C, du Roscoät E, et al. La dépression en France chez les 18-75 ans : résultats du Baromètre santé 2017. Bull Epidemiol Hebd. 2018,32-33:637-44. http://invs.santepubliquefrance.fr/beh/2018/32-33/pdf/2018_32-33_1.pdf
-                                </li>
-                                <li>
-                                    [4] https://www.has-sante.fr/upload/docs/application/pdf/2017-10/depression_adulte_fiche_de_synthese_pec.pdf
-                                </li>
-                                <li>
-                                    [5] Shinohara, K., Honyashiki, M., Imai, H., Hunot, V., Caldwell, D. M., Davies, P., ... & Churchill, R. (2013). Behavioural therapies versus other psychological therapies for depression. Cochrane Database of Systematic Reviews, (10).
-                                </li>
-                                <li>
-                                    [6] Moncrieff, J., Wessely, S., & Hardy, R. (1998). Active placebos versus antidepressants for depression. Cochrane Database of Systematic Reviews, (3).
-                                </li>
-                            </ul>
-                        </p>
+                         <ul class="sourcesHome">
+                                            <li>
+                                                [1] American Psychiatric Association. (2015). DSM-5-Manuel diagnostique et statistique des troubles mentaux. Elsevier Masson.
+                                            </li>
+                                            <li>
+                                                [2] World Health Organization. (‎1994)‎. CIM-10/ICD-10 : Classification internationale des maladies. Dixième révision. Chapitre V(‎F)‎, Troubles mentaux et troubles du comportement : descriptions cliniques et directives pour le diagnostic / coordination générale de la traduction française: C. B. Pull. Genève : Organisation mondiale de la Santé.
+                                            </li>
+                                            <li>
+                                                [3] Léon C, Chan-Chee C, du Roscoät E, et al. La dépression en France chez les 18-75 ans : résultats du Baromètre santé 2017. Bull Epidemiol Hebd. 2018,32-33:637-44. http://invs.santepubliquefrance.fr/beh/2018/32-33/pdf/2018_32-33_1.pdf
+                                            </li>
+                                            <li>
+                                                [4] https://www.has-sante.fr/upload/docs/application/pdf/2017-10/depression_adulte_fiche_de_synthese_pec.pdf
+                                            </li>
+                                            <li>
+                                                [5] Shinohara, K., Honyashiki, M., Imai, H., Hunot, V., Caldwell, D. M., Davies, P., ... & Churchill, R. (2013). Behavioural therapies versus other psychological therapies for depression. Cochrane Database of Systematic Reviews, (10).
+                                            </li>
+                                            <li>
+                                                [6] Moncrieff, J., Wessely, S., & Hardy, R. (1998). Active placebos versus antidepressants for depression. Cochrane Database of Systematic Reviews, (3).
+                                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>

@@ -19,7 +19,7 @@
                         Moodlink développe des solutions numériques dans la santé mentale.
                     </p>
                     <p>
-                        Chez Moodlink, nous pouvons compter sur des expertises médicales et techniques tous rassemblés autour d'un projet commun : apporter des solutions innovantes dans la santé mentale.
+                        Nous travaillons avec des psychiatres, des psychologues et des patients pour construire des solutions innovantes dans la santé mentale.
                     </p>
                 </div>
                 <div class="row team_grids mt-5">
