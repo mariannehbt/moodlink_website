@@ -52,7 +52,12 @@
                             <a href="https://www.linkedin.com/in/cyrielle-labaune-31387b15a/" target="_blank">
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <p>Diplômée d'un Master en psychologie.</p>
+                                        <p>
+                                            <br><br>
+                                            Psychologue clinicienne à l'hôpital Victor Dupouy à Argenteuil, en consultation douleur chronique.<br>
+                                            Service de douleur chronique et soins palliatifs.<br><br>
+                                            Orientation TCC (Thérapies Comportementales et Cognitives).
+                                        </p>
                                     </div>
                                 </div>
                             </a>
@@ -72,7 +77,7 @@
                             <a href="https://www.linkedin.com/in/marianneheribert/" target="_blank">
                                 <div class="team-hover">
                                     <div class="desk">
-                                        <p>Diplômée d'un Master en gestion.</p>
+                                        <p>Diplômée d'un Master en gestion et d'une formation en programmation web.</p>
                                     </div>
                                 </div>
                             </a>
