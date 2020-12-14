@@ -78,3 +78,17 @@
   font-size: 9px;
   padding-top: 15px; 
 }
+
+.cgu {
+    margin: 0;
+    font-size: 1.5em;
+    font-family: 'Dosis', sans-serif;
+    display: inline;
+}
+
+.cgu2 {
+    margin: 0;
+    color: black;
+    font-size: large;
+    display: inline;
+}
