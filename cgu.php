@@ -106,9 +106,8 @@
                 <div class="row">
                     <p class="cgu2 mt-sm-4 mt-3">6. DOSSIER LOCAL MOODLINK</p>
                     <p class="cgu mt-sm-4 mt-3">
-                        IMPORTANT : Les fonctionnalités « module numérique d’auto-suivi » et “Une mesure automatique des indicateurs sur le temps de sommeil, le niveau d’activité sociale et la distance parcourue par l’utilisateur” vous permet de stocker des données personnelles de manière structurée, localisées au sein du terminal mobile uniquement.
-                        De même, Moodlink permet de noter des informations personnelles et un numéro de téléphone associé au contact d’un proche spécifié par l’utilisateur.
-
+                        IMPORTANT : Les fonctionnalités « module numérique d’auto-suivi » et « Une mesure automatique des indicateurs sur le temps de sommeil, le niveau d’activité sociale et la distance parcourue par l’utilisateur » vous permet de stocker des données personnelles de manière structurée, <u>localisées au sein du terminal mobile uniquement</u>.
+                        De même, Moodlink permet de noter des informations personnelles et un numéro de téléphone associé au contact d’un proche spécifié par l’utilisateur.<br>
                         L’APPLICATION MOODLINK NE PROPOSE NI DIAGNOSTIC MÉDICAL PERSONNALISÉ, NI CONSEIL DE TRAITEMENT. En cas de nécessité, veuillez contacter un médecin ou un service d’urgence.
                     </p>
                 </div>
@@ -120,12 +119,32 @@
                 </div>
                 <div class="row">
                     <p class="cgu mt-sm-4 mt-3">
-                        IMPORTANT : AUCUNE DES DONNÉES PERSONNELLES RENSEIGNÉES PAR L’UTILISATEUR DANS L’APPLICATION, N’EST RECUEILLIE PAR LA SOCIÉTÉ MOODLINK.
+                        AUCUNE DES DONNÉES PERSONNELLES RENSEIGNÉES PAR L’UTILISATEUR DANS L’APPLICATION ET RECOLTEES AUTOMATIQUEMENT PAR L’APPLICATION NE SONT RECUEILLIES PAR LA SOCIÉTÉ MOODLINK (pseudo, numéro renseigné pour le « numéro d’un proche », nom de la « tâche perso », score d’humeur quotidien, « notes », suivi du traitement ou « observance », suivi de la « tâche perso », positions GPS collectées, indicateurs de la distance parcourue chaque jour, mesures recueillies par l’accéléromètre, indicateurs du temps de sommeil par nuit, indicateurs de l’activité sociale, durée de l’utilisation des appels, nombre de SMS envoyés et reçus, temps d’utilisation des applications de type « réseau social »).
                     </p>
                 </div>
                 <div class="row">
-                    <p class="cgu mt-sm-4 mt-3">7.2 Site</p>
-                
+                    <p class="cgu mt-sm-4 mt-3">7.2 Données de géolocalisation</p>
+                        <p class="cgu mt-sm-4 mt-3">IMPORTANT : Afin de mesurer « le déplacement géographique » de l’utilisateur, l’une des fonctionnalités principales de l’application, l’application récolte des données de localisation même lorsque l’application est fermée ou non utilisée.<br>
+                        L’ensemble des données dont les données de géolocalisation est <u>stocké et localisé au sein du terminal mobile uniquement</u>.
+                        L’utilisateur peut à tout moment désactiver la mesure « déplacement géographique » grâce à un simple bouton dans les paramètres de l’application.</p>
+                </div>
+                <div class="row">
+                    <p class="cgu mt-sm-4 mt-3">7.3 Accès au journal d’appel et SMS</p>
+                        <p class="cgu mt-sm-4 mt-3">IMPORTANT : Afin de mesurer « l’activité sociale » de l’utilisateur, l’une des fonctionnalités principales de l’application, l’application doit accéder au journal d’appel, aux SMS et aux statistiques d’usage des autres applications du téléphone.<br>
+                        Chaque jour l’application mobile envoie un SMS préenregistré à un proche dont le numéro de téléphone est renseigné dans les paramètres si les conditions suivantes sont remplies :
+                        des modifications majeures ont été quantifiées sur les indicateurs de la durée de sommeil et de l'humeur.
+                        Le SMS envoyé est :
+                        "
+                        Bonjour,
+                        Selon les observations de l'app Moodlink, il se pourrait que votre proche ait expérimenté une humeur anormale / une diminution de son temps de sommeil dernièrement. Peut-être pourriez-vous prendre contact avec lui ?
+                        Plus d'informations sur https://moodlink.fr
+                        "<br>
+                        L’ensemble des données est <u>stocké et localisé au sein du terminal mobile uniquement</u>.
+                        L’utilisateur peut à tout moment désactiver la mesure « l’activité sociale » grâce à un simple bouton dans les paramètres de l’application.
+                        </p>
+                </div>
+                <div class="row">
+                    <p class="cgu mt-sm-4 mt-3">7.4 Site</p>
                     <p class="cgu mt-sm-4 mt-3">
                         L’accès au site ne nécessite de communiquer aucune donnée personnelle de votre part. Si vous le souhaitez, vous pouvez renseigner votre adresse e-mail sur le site Moodlink.fr pour être tenu au courant des nouveautés et mises à jour des sites et de l’application. Vous pouvez également nous faire part de votre expérience utilisateur par email à l’adresse contact@moodlink.fr des suggestions et remarques pour améliorer et enrichir l’application et/ou du site. Dans le cadre de la protection des données personnelles, et conformément à la loi n°78-17 du 6 janvier 1978, relative à l’informatique, aux fichiers et aux libertés, modifiée par la loi n°2004-801 du 6 août 2004, le site Moodlink.fr a fait l´objet d´une déclaration auprès de la Commission Nationale de l’Informatique et des Libertés (C.N.I.L).
                     </p>
