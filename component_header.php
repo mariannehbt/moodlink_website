@@ -19,19 +19,6 @@
             <ul class="menu mt-2 ml-auto">
                 <li class="dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Les troubles de l'humeur
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                        <a class="dropdown-item" href="mood_disorders_bipolar_disorders.php">
-                            Les troubles bipolaires
-                        </a>
-                        <a class="dropdown-item" href="mood_disorders_depressive_disorders.php">
-                            Les troubles dépressifs
-                        </a>
-                    </div>
-                </li>
-                <li class="dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Notre Solution
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
@@ -66,12 +53,14 @@
                         </a>
                     </div>
                 </li>
+                <li>
+                    <div class="login-icon ml-2">
+                        <a class="user" href="solutions_bipolink.php#bipolinkDownload">
+                            Télécharger Moodlink
+                        </a>
+                    </div>
+                </li>
             </ul>
-            <div class="login-icon ml-2">
-                <a class="user" href="solutions_bipolink.php#bipolinkDownload">
-                    Télécharger Moodlink
-                </a>
-            </div>
         </nav>
         <div class="clear">
         </div>

@@ -92,3 +92,13 @@
     font-size: large;
     display: inline;
 }
+
+.avatar {
+    width: 10%;
+    height: 10%;
+}
+
+.img-fluid {
+  max-width: 100%; 
+  height: auto;
+}
