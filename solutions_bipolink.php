@@ -45,28 +45,6 @@
                 </div>
             </div>
         </section>
-        <section class="about pb-5">
-            <div class="container py-md-3">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h4 class="about-left">
-                            Pourquoi utiliser cette solution ?
-                        </h4>
-                        <p class="mt-sm-4 mt-3">
-                            Encore aujourd'hui, il faut compter en moyenne 10 ans à partir de l'apparition des premiers symptômes pour qu'un patient soit considéré comme "stabilisé" [1].
-                        </p>
-                        <p class="mt-sm-4 mt-3">
-                            Nous objectif est de réduire ce délai en fournissant de l'information aux patients comme aux professionnels de santé, psychiatres et psychologues, pour les aider à adapter leur stratégie thérapeutique.
-                        </p>
-                        <p class="mt-sm-4 mt-3">
-                            Les messages d'alerte envoyés aux patients ainsi qu'aux aidants (sous réserve d'acceptation par les patients), pourraient augmenter les chances de prévenir des crises et des passages à l'acte.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- // Bipolink Why -->
-
         <!-- Risk -->
         <section class="about pb-5">
             <div class="container py-md-3">
